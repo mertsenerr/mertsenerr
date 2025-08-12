@@ -138,16 +138,3 @@ qqqqqq<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1f2335&height=2&section=footer&reversal=true&text=" width="60%" />
 </p>
-
-<!-- === Badge buttons (alt sırada uzun butonlar) === -->
-<p align="center">
-  <a href="mailto:merrtsn20@gmail.com" title="Gmail" style="text-decoration:none;margin:0 6px;">
-    <img alt="Gmail" height="44"
-      src="https://img.shields.io/badge/✉️%20%20merrtsn20%40gmail.com-1f2937?style=for-the-badge&logo=gmail&logoColor=d14836&labelColor=111827" />
-  </a>
-  <a href="https://linkedin.com/in/mertsener" title="LinkedIn" style="text-decoration:none;margin:0 6px;">
-    <img alt="LinkedIn" height="44"
-      src="https://img.shields.io/badge/🔗%20%20linkedin.com%2Fin%2Fmertsener-1f2937?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111827" />
-  </a>
-  <a href="https://mertsener.com" title="Portfolio" style="text-decoration:none;margin:0 6px;">
-    <img alt="Portfolio" height="44"
