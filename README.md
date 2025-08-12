@@ -26,17 +26,17 @@
 
 ## 📊 GitHub İstatistikleri
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mertsennerr&show_icons=true&theme=tokyonight" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertsennerr&layout=compact&theme=tokyonight" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&theme=tokyonight" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
 
 ## 🌟 Öne Çıkan Projelerim
-- 🔐 [**Network Security Tools**](https://github.com/mertsennerr/networksecuritytools)  
+- 🔐 [**Network Security Tools**](https://github.com/mertsenerr/networksecuritytools)  
   _Siber güvenlik eğitim modülleri, etkileşimli quizler ve internet hız testi içerir._
   
-- 🖥 [**My Portfolio**](https://github.com/mertsennerr/myportfolio)  
+- 🖥 [**My Portfolio**](https://github.com/mertsenerr/myportfolio)  
   _Kendi portföy sitem, React.js ve Tailwind CSS ile tasarlandı._
 
 ---
