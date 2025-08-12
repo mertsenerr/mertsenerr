@@ -38,10 +38,10 @@
 ### 📌 Öne Çıkan Projeler
 <p align="center">
   <a href="https://github.com/mertsennerr/networksecuritytools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsennerr&repo=networksecuritytools&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=networksecuritytools&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/mertsennerr/myportfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsennerr&repo=myportfolio&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=myportfolio&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -49,9 +49,9 @@
 
 ### 📊 İstatistikler
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mertsennerr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" />
-  <img height="165" src="https://streak-stats.demolab.com?user=mertsennerr&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertsennerr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" />
+  <img height="165" src="https://streak-stats.demolab.com?user=mertsenerr&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ---
