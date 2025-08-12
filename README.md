@@ -1,11 +1,11 @@
-<!-- Banner -->
+<!-- Banner (alternatif, daha stabil) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=9aa4ff&text=Mert%20Şener&height=120&fontAlign=50&fontSize=56&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=72" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:111827,100:1f2937&height=120&text=Mert%20%C5%9Eener&fontAlign=50&fontSize=48&fontColor=9aa4ff&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=75" />
 </p>
 
-<!-- Typing -->
+<!-- Typing (TR karakterler yeniden encode edildi) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2500&pause=1000&center=true&vCenter=true&width=640&lines=Modern+Web+Arayüzleri;Ger%C3%A7ek+Zamanl%C4%B1+Rezervasyon+Ak%C4%B1%C5%9Flar%C4%B1;Performans+ve+Kullan%C4%B1labilirlik+Odakl%C4%B1+Geli%C5%9Fim" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2500&pause=1000&center=true&vCenter=true&width=640&repeat=true&lines=Modern%20Web%20Aray%C3%BCzleri;Ger%C3%A7ek%20Zamanl%C4%B1%20Rezervasyon;Performans%20ve%20Kullan%C4%B1labilirlik%20Odakl%C4%B1%20Geli%C5%9Fim" />
 </p>
 
 ---
