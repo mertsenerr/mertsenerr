@@ -88,8 +88,8 @@
 Kullanıcılar anlık **dolu/boş/rezerv** masa durumunu görür, **canlı rezervasyon** yapar ve **menü**ye erişir.
 <p>
   <!-- Repo pin: repo adı farklıysa düzelt -->
-  <a href="https://github.com/mertsennerr/atesocakbasi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsennerr&repo=atesocakbasi&theme=tokyonight&hide_border=true" alt="atesocakbasi pin" />
+  <a href="https://github.com/mertsenerr/atesocakbasi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=atesocakbasi&theme=tokyonight&hide_border=true" alt="atesocakbasi pin" />
   </a>
 </p>
 <!-- Tech badges -->
@@ -106,8 +106,8 @@ Kullanıcılar anlık **dolu/boş/rezerv** masa durumunu görür, **canlı rezer
 ### 🎓 Bitirme Projesi — Eğitim Modülü + Speed Test + Wi-Fi Analyzer
 Eğitsel modüller, quiz akışları, **hız testi (gauge)** ve **Wi-Fi Analyzer** (sinyal geçmişi/grafikler) içerir.
 <p>
-  <a href="https://github.com/mertsennerr/networksecuritytools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsennerr&repo=networksecuritytools&theme=tokyonight&hide_border=true" alt="networksecuritytools pin" />
+  <a href="https://github.com/mertsenerr/networksecuritytools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=networksecuritytools&theme=tokyonight&hide_border=true" alt="networksecuritytools pin" />
   </a>
 </p>
 <p>
@@ -123,8 +123,8 @@ Eğitsel modüller, quiz akışları, **hız testi (gauge)** ve **Wi-Fi Analyzer
 ### 🗂️ Portfolyo
 Hakkım, projeler ve iletişim için modern, hafif ve hızlı bir portfolyo.
 <p>
-  <a href="https://github.com/mertsennerr/myportfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsennerr&repo=myportfolio&theme=tokyonight&hide_border=true" alt="myportfolio pin" />
+  <a href="https://github.com/mertsenerr/myportfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=myportfolio&theme=tokyonight&hide_border=true" alt="myportfolio pin" />
   </a>
 </p>
 <p>
