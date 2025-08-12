@@ -42,8 +42,8 @@
       <h3>🍽️ Ateş Ocakbaşı — Rezervasyon & Masa Takip</h3>
       <p>Kullanıcılar anlık olarak <b>dolu/boş</b> masa durumunu görüyor, <b>canlı rezervasyon</b> yapabiliyor ve menüye erişebiliyor. Yönetici tarafında masa planı, rezervasyon onayı ve durum güncellemeleri.</p>
       <p>
-        <a href="https://github.com/mertsennerr/atesocakbasi">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsennerr&repo=atesocakbasi&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/mertsenerr/atesocakbasi">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=atesocakbasi&theme=tokyonight&hide_border=true" />
         </a>
       </p>
       <p>
