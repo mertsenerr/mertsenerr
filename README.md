@@ -44,8 +44,8 @@
 
   <!-- Doğru kullanıcı adı + repo adı (PUBLIC olmalı) -->
   <p>
-    <a href="https://github.com/mertsennerr/atesocakbasi">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsennerr&repo=atesocakbasi&theme=tokyonight&hide_border=true" alt="atesocakbasi pin" />
+    <a href="https://github.com/mertsenerr/atesocakbasi">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=atesocakbasi&theme=tokyonight&hide_border=true" alt="atesocakbasi pin" />
     </a>
   </p>
 
