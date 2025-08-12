@@ -105,12 +105,39 @@
 ---
 
 ## 📬 İletişim
-<p>
-  <a href="mailto:merrtsn20@gmail.com"><img src="https://img.shields.io/badge/Gmail-merrtsn20%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
-  <a href="https://linkedin.com/in/mertsener"><img src="https://img.shields.io/badge/LinkedIn-mertsener-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
-  <a href="https://mertsener.com"><img src="https://img.shields.io/badge/Portfolio-mertsener.com-111?style=for-the-badge&logo=vercel&logoColor=fff" /></a>
+
+<div align="center">
+
+<!-- Intro text -->
+<p style="font-size: 16px; color: #9ca3af;">
+💬 Projeler, iş birlikleri ya da sadece merhaba demek için iletişime geçebilirsin.
 </p>
 
+<!-- Glass effect contact buttons -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:merrtsn20@gmail.com" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/Gmail-merrtsn20%40gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=d14836&labelColor=1f2937&color=1f2937" alt="Gmail" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/mertsener" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/LinkedIn-@mertsener-ffffff?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=1f2937&color=1f2937" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://mertsener.com" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/Portfolio-mertsener.com-ffffff?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=1f2937&color=1f2937" alt="Portfolio" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Smooth underline effect -->
+<br/>
 <p align="center">
-  <sub>© <a href="https://github.com/mertsenerr">mertsennerr</a> — modern, soft ve hızlı okunur profil.</sub>
+  <sub>© <a href="https://github.com/mertsennerr" style="color:#9aa4ff;text-decoration:none;">mertsennerr</a> — modern, soft ve hızlı okunur profil.</sub>
 </p>
+
+</div>
