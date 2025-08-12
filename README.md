@@ -65,9 +65,11 @@
         </a>
       </p>
       <p>
+        <img src="https://img.shields.io/badge/HTML5-0a0f1f?style=for-the-badge&logo=html5" />
+        <img src="https://img.shields.io/badge/CSS3-0a0f1f?style=for-the-badge&logo=css3" />
         <img src="https://img.shields.io/badge/React-0a0f1f?style=for-the-badge&logo=react" />
         <img src="https://img.shields.io/badge/Firebase-0a0f1f?style=for-the-badge&logo=firebase" />
-        <img src="https://img.shields.io/badge/Charts-0a0f1f?style=for-the-badge&logo=recharts" />
+        <img src="https://img.shields.io/badge/Node.js%20%2F%20Express-0a0f1f?style=for-the-badge&logo=node.js" />
       </p>
     </td>
   </tr>
