@@ -108,11 +108,6 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=networksecuritytools&theme=tokyonight&hide_border=true" />
         </a>
       </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-0a0f1f?style=for-the-badge&logo=react" />
-        <img src="https://img.shields.io/badge/Firebase-0a0f1f?style=for-the-badge&logo=firebase" />
-        <img src="https://img.shields.io/badge/Charts-0a0f1f?style=for-the-badge&logo=recharts" />
-      </p>
     </td>
   </tr>
   <tr>
