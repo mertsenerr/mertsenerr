@@ -59,7 +59,7 @@ Kullanıcılar anlık **dolu/boş** masa durumunu görür, **canlı rezervasyon*
 Yönetici tarafında masa planı, rezervasyon onayı ve durum güncellemeleri bulunur.
 
 <p>
-  <a href="https://github.com/mertsennerr/atesocakbasi">
+  <a href="https://github.com/mertsenerr/atesocakbasi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsennerr&repo=atesocakbasi&theme=tokyonight&hide_border=true" alt="atesocakbasi pin" />
   </a>
 </p>
@@ -70,8 +70,8 @@ Yönetici tarafında masa planı, rezervasyon onayı ve durum güncellemeleri bu
 Eğitsel modüller, quiz akışları, **hız testi (gauge)** ve **Wi-Fi Analyzer** (sinyal geçmişi/grafikler) bileşenlerini içerir.
 
 <p>
-  <a href="https://github.com/mertsennerr/networksecuritytools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsennerr&repo=networksecuritytools&theme=tokyonight&hide_border=true" alt="networksecuritytools pin" />
+  <a href="https://github.com/mertsenerr/networksecuritytools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=networksecuritytools&theme=tokyonight&hide_border=true" alt="networksecuritytools pin" />
   </a>
 </p>
 
@@ -81,8 +81,8 @@ Eğitsel modüller, quiz akışları, **hız testi (gauge)** ve **Wi-Fi Analyzer
 Hakkımda, projeler ve iletişim için modern, hafif ve hızlı bir portfolyo.
 
 <p>
-  <a href="https://github.com/mertsennerr/myportfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsennerr&repo=myportfolio&theme=tokyonight&hide_border=true" alt="myportfolio pin" />
+  <a href="https://github.com/mertsenerr/myportfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=myportfolio&theme=tokyonight&hide_border=true" alt="myportfolio pin" />
   </a>
 </p>
 
@@ -90,9 +90,9 @@ Hakkımda, projeler ve iletişim için modern, hafif ve hızlı bir portfolyo.
 
 ## 📈 İstatistikler
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mertsennerr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=mertsennerr&theme=tokyonight&hide_border=true" alt="streak" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertsennerr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=mertsenerr&theme=tokyonight&hide_border=true" alt="streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 </p>
 
 ---
