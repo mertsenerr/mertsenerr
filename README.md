@@ -56,8 +56,8 @@
       <h3>🎓 Bitirme Projesi — Eğitim Modülü + Speed Test + Wi-Fi Analyzer</h3>
       <p>Eğitsel modüller, quiz akışları, <b>hız testi</b> (gauge animasyonları) ve <b>Wi-Fi Analyzer</b> (sinyal geçmişi, görselleştirme) bileşenlerini içeren uygulama seti.</p>
       <p>
-        <a href="https://github.com/mertsennerr/networksecuritytools">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsennerr&repo=networksecuritytools&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/mertsenerr/networksecuritytools">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=networksecuritytools&theme=tokyonight&hide_border=true" />
         </a>
       </p>
       <p>
