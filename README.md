@@ -1,11 +1,9 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=9aa4ff&text=Mert%20Şener&height=120&fontAlign=50&fontSize=56&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=72" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=9aa4ff&text=Mert%20Şener&height=120&fontAlign=50&fontSize=56&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=85" />
 </p>
 
-<!-- Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2500&pause=1000&center=true&vCenter=true&width=640&lines=Modern+Web+Arayüzleri;Ger%C3%A7ek+Zamanl%C4%B1+Rezervasyon+Ak%C4%B1%C5%9Flar%C4%B1;Performans+ve+Kullan%C4%B1labilirlik+Odakl%C4%B1+Geli%C5%9Fim" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2500&pause=1000&color=9aa4ff&center=true&vCenter=true&width=640&lines=Modern+Web+Arayuzleri;Gercek+Zamanli+Rezervasyon+Akislari;Performans+ve+Kullanilabilirlik+Odakli+Gelisim" alt="Typing SVG" />
 </p>
 
 ---
