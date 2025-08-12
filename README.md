@@ -114,10 +114,10 @@ qqqqqq<!-- Banner -->
 <!-- === Icon grid (brand-colored + smooth labels) === -->
 <table align="center">
   <tr>
-    <!-- Gmail -->
+   <!-- Gmail -->
     <td align="center" width="180">
       <a href="mailto:merrtsn20@gmail.com" style="text-decoration:none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="36" height="36" alt="Gmail icon" />
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Gmail icon" />
         <div>
           <span style="font-family:Inter,Segoe UI,Ubuntu,Arial,sans-serif;
                        font-weight:600; font-size:13.5px; letter-spacing:.2px;
