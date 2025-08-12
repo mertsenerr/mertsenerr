@@ -72,8 +72,8 @@
       <h3>🗂️ Portfolio</h3>
       <p>Hakkımda, projeler, iletişim ve küçük etkileşimlerle modern portfolyo.</p>
       <p>
-        <a href="https://github.com/mertsennerr/myportfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsennerr&repo=myportfolio&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/mertsenerr/myportfolio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=myportfolio&theme=tokyonight&hide_border=true" />
         </a>
       </p>
       <p>
@@ -85,7 +85,7 @@
       <h3>🧪 Mini Araçlar & Bileşenler</h3>
       <p>Küçük ama işlevsel: rezervasyon widget’ları, form/validasyon bileşenleri, UI kart koleksiyonları.</p>
       <p>
-        <a href="https://github.com/mertsennerr?tab=repositories&q=component">
+        <a href="https://github.com/mertsenerr?tab=repositories&q=component">
           <img src="https://img.shields.io/badge/GitHub-Component%20Kit-1f2335?style=for-the-badge&logo=github" />
         </a>
       </p>
