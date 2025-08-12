@@ -11,12 +11,25 @@
 ---
 
 ## 👋 Hakkımda
-- Restoranlar için **canlı masa durumu (dolu/boş/rezerv)** ve **online rezervasyon** akışlarını içeren modern web sitesi geliştiriyorum (**Ateş Ocakbaşı**).
-- **Bitirme Projesi:** Eğitim modülü, hız testi ve Wi-Fi Analyzer tanıtımı/komponentleri içeren uygulama paketi.
-- Portfolyo sitem: **mertsener.com**
-- Bana ulaş: **merrtsn20@gmail.com**
+Merhaba, ben **Mert Şener**, 24 yaşındayım. Modern web projeleri ve kullanıcı dostu yazılımlar geliştirmeye odaklanıyorum.
+
+- 🎓 **Eğitim ve Akademik Başarılar**
+  - **Maltepe Üniversitesi** — %50 burslu, 2 yıl **Bilgisayar Programcılığı**  
+    - Bölüm 3.lüğü ile mezuniyet  
+    - **PARDON Mobil Teknolojileri Hizmetleri A.Ş.**’de 2 ay süren staj  
+  - **DGS**’de 3000–4000 sıralama bandı ile geçiş  
+  - **Yaşar Üniversitesi** (İzmir) — %25 burslu **Bilgisayar Mühendisliği** bölümü
+
+- 💻 **Üzerinde Çalıştığım Projeler**
+  - **Ateş Ocakbaşı** — Gerçek zamanlı masa durumu (dolu/boş/rezerv) takibi, online rezervasyon sistemi ve menü erişimi.
+  - **Bitirme Projesi** — Eğitim modülü, hız testi ve Wi-Fi Analyzer bileşenlerini içeren uygulama paketi.
+  - **Portfolyo** — [mertsener.com](https://mertsener.com) üzerinden projelerim ve hakkımda bilgiler.
+
+- 🌐 **Dil Yetkinliği**
+  - İngilizce — Akıcı konuşma ve yazma (B2–C1)
 
 ---
+
 
 ## 🧰 Tech Stack
 <!-- Soft, modern icons (skillicons) -->
