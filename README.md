@@ -1,6 +1,5 @@
-q<!-- Banner -->
+<!-- Banner -->
 <p align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=9aa4ff&text=Mert%20Şener&height=120&fontAlign=50&fontSize=56&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=72" />
 </p>
 
