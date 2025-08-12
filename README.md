@@ -110,13 +110,14 @@ qqqqqq<!-- Banner -->
   ✨ Projeler, iş birlikleri veya hızlı bir merhaba için bana ulaşabilirsin.
 </p>
 
+
 <!-- === Icon grid (brand-colored + smooth labels) === -->
 <table align="center">
   <tr>
     <!-- Gmail -->
     <td align="center" width="180">
       <a href="mailto:merrtsn20@gmail.com" style="text-decoration:none;">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Gmail icon" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="36" height="36" alt="Gmail icon" />
         <div>
           <span style="font-family:Inter,Segoe UI,Ubuntu,Arial,sans-serif;
                        font-weight:600; font-size:13.5px; letter-spacing:.2px;
@@ -129,7 +130,7 @@ qqqqqq<!-- Banner -->
     <!-- LinkedIn -->
     <td align="center" width="180">
       <a href="https://linkedin.com/in/mertsener" style="text-decoration:none;">
-        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn icon" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="36" height="36" alt="LinkedIn icon" />
         <div>
           <span style="font-family:Inter,Segoe UI,Ubuntu,Arial,sans-serif;
                        font-weight:600; font-size:13.5px; letter-spacing:.2px;
@@ -142,7 +143,7 @@ qqqqqq<!-- Banner -->
     <!-- Portfolio (Vercel) -->
     <td align="center" width="180">
       <a href="https://mertsener.com" style="text-decoration:none;">
-        <img src="https://cdn.simpleicons.org/vercel/000000" width="36" height="36" alt="Vercel icon" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Vercel_logo_black.svg" width="36" height="36" alt="Vercel icon" />
         <div>
           <span style="font-family:Inter,Segoe UI,Ubuntu,Arial,sans-serif;
                        font-weight:600; font-size:13.5px; letter-spacing:.2px;
@@ -154,6 +155,7 @@ qqqqqq<!-- Banner -->
     </td>
   </tr>
 </table>
+
 
 
 <!-- soft divider -->
