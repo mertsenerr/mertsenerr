@@ -140,19 +140,6 @@ qqqqqq<!-- Banner -->
         </div>
       </a>
     </td>
-    <!-- Portfolio (Vercel) -->
-    <td align="center" width="180">
-      <a href="https://mertsener.com" style="text-decoration:none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Vercel_logo_black.svg" width="36" height="36" alt="Vercel icon" />
-        <div>
-          <span style="font-family:Inter,Segoe UI,Ubuntu,Arial,sans-serif;
-                       font-weight:600; font-size:13.5px; letter-spacing:.2px;
-                       color:#9aa4ff; display:inline-block; margin-top:6px;">
-            Portfolio
-          </span>
-        </div>
-      </a>
-    </td>
   </tr>
 </table>
 
