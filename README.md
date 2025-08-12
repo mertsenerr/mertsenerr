@@ -1,4 +1,4 @@
-<!-- Banner -->
+qqqqqq<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=9aa4ff&text=Mert%20Şener&height=120&fontAlign=50&fontSize=56&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=72" />
 </p>
@@ -109,69 +109,96 @@
 <div align="center">
   <p style="color:#9ca3af;">Projeler, iş birlikleri veya hızlı bir merhaba için ulaşabilirsin.</p>
 
-  <!-- Gmail -->
-  <a href="mailto:merrtsn20@gmail.com" title="Gmail">
-    <svg width="260" height="56" viewBox="0 0 260 56" xmlns="http://www.w3.org/2000/svg">
+  <!-- ===== Pill Button: GMAIL ===== -->
+  <a href="mailto:merrtsn20@gmail.com" title="Gmail" style="text-decoration:none;">
+    <svg width="270" height="60" viewBox="0 0 270 60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gmail: merrtsn20@gmail.com">
       <defs>
-        <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
-          <stop offset="0%" stop-color="#2a2f45"/>
-          <stop offset="100%" stop-color="#1f2335"/>
+        <linearGradient id="gbtn" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#2b2f44"/>
+          <stop offset="100%" stop-color="#1c2236"/>
         </linearGradient>
-        <linearGradient id="g1stroke" x1="0" y1="0" x2="1" y2="1">
-          <stop offset="0%" stop-color="#3b4262"/>
-          <stop offset="100%" stop-color="#2b3049"/>
+        <linearGradient id="gstroke" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#3b4361"/>
+          <stop offset="100%" stop-color="#2c3250"/>
         </linearGradient>
+        <filter id="softglow" x="-20%" y="-50%" width="140%" height="200%">
+          <feGaussianBlur stdDeviation="3" result="b"/>
+          <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+        </filter>
       </defs>
-      <rect x="1.5" y="1.5" rx="14" ry="14" width="257" height="53" fill="url(#g1)" stroke="url(#g1stroke)"/>
-      <text x="22" y="34" fill="#f3f4f6" font-family="Inter, Segoe UI, Ubuntu, Sans-Serif" font-size="16" font-weight="700">Gmail</text>
-      <text x="88" y="34" fill="#c7cbe1" font-family="Inter, Segoe UI, Ubuntu, Sans-Serif" font-size="14">merrtsn20@gmail.com</text>
+
+      <rect x="1.5" y="1.5" rx="16" ry="16" width="267" height="57" fill="url(#gbtn)" stroke="url(#gstroke)" filter="url(#softglow)"/>
+      <!-- Icon circle -->
+      <circle cx="32" cy="30" r="14" fill="#111827" />
+      <!-- Gmail icon -->
+      <path d="M24 25l8 6 8-6v10a3 3 0 0 1-3 3H27a3 3 0 0 1-3-3V25z" fill="#EA4335"/>
+      <path d="M24 25l8 6 8-6-8-5-8 5z" fill="#EA4335"/>
+      <path d="M24 25l8 6 8-6-8-5-8 5z" fill="#fff" opacity=".9"/>
+      <path d="M24 25v10a3 3 0 0 0 3 3h1V27l-4-2z" fill="#34A853"/>
+      <path d="M40 27v11h1a3 3 0 0 0 3-3V25l-4 2z" fill="#4285F4"/>
+
+      <!-- Texts -->
+      <text x="56" y="28" fill="#e5e7eb" font-family="Inter, Segoe UI, Ubuntu, Sans-Serif" font-size="14" font-weight="700" letter-spacing=".5">GMAIL</text>
+      <text x="56" y="44" fill="#c7cbe1" font-family="Inter, Segoe UI, Ubuntu, Sans-Serif" font-size="13">merrtsn20@gmail.com</text>
     </svg>
   </a>
 
-  <!-- spacing -->
   &nbsp;&nbsp;
 
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/mertsener" title="LinkedIn">
-    <svg width="220" height="56" viewBox="0 0 220 56" xmlns="http://www.w3.org/2000/svg">
+  <!-- ===== Pill Button: LINKEDIN ===== -->
+  <a href="https://linkedin.com/in/mertsener" title="LinkedIn" style="text-decoration:none;">
+    <svg width="250" height="60" viewBox="0 0 250 60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LinkedIn: @mertsener">
       <defs>
-        <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
-          <stop offset="0%" stop-color="#22314d"/>
-          <stop offset="100%" stop-color="#1e2842"/>
+        <linearGradient id="lbtn" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#24324f"/>
+          <stop offset="100%" stop-color="#1d2741"/>
         </linearGradient>
-        <linearGradient id="g2stroke" x1="0" y1="0" x2="1" y2="1">
-          <stop offset="0%" stop-color="#3c4666"/>
-          <stop offset="100%" stop-color="#2e3756"/>
+        <linearGradient id="lstroke" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#3d4767"/>
+          <stop offset="100%" stop-color="#2f3858"/>
         </linearGradient>
       </defs>
-      <rect x="1.5" y="1.5" rx="14" ry="14" width="217" height="53" fill="url(#g2)" stroke="url(#g2stroke)"/>
-      <text x="22" y="34" fill="#f3f4f6" font-family="Inter, Segoe UI, Ubuntu, Sans-Serif" font-size="16" font-weight="700">LinkedIn</text>
-      <text x="112" y="34" fill="#c7cbe1" font-family="Inter, Segoe UI, Ubuntu, Sans-Serif" font-size="14">@mertsener</text>
+
+      <rect x="1.5" y="1.5" rx="16" ry="16" width="247" height="57" fill="url(#lbtn)" stroke="url(#lstroke)" filter="url(#softglow)"/>
+      <!-- Icon circle -->
+      <circle cx="30" cy="30" r="14" fill="#111827" />
+      <!-- LinkedIn icon -->
+      <path d="M25 23h3v14h-3V23zm1.5-6a2 2 0 110 4 2 2 0 010-4zm6.5 6h-3v14h3v-7c0-2.1 1.2-3.3 2.8-3.3 1.6 0 2.7 1.1 2.7 3.2v7.1h3v-7.8c0-3.5-2-5.2-4.6-5.2-2 0-3.1 1-3.6 1.9V23z" fill="#0A66C2"/>
+
+      <!-- Texts -->
+      <text x="54" y="28" fill="#e5e7eb" font-family="Inter, Segoe UI, Ubuntu, Sans-Serif" font-size="14" font-weight="700" letter-spacing=".5">LINKEDIN</text>
+      <text x="54" y="44" fill="#c7cbe1" font-family="Inter, Segoe UI, Ubuntu, Sans-Serif" font-size="13">@mertsener</text>
     </svg>
   </a>
 
-  <!-- spacing -->
   &nbsp;&nbsp;
 
-  <!-- Portfolio -->
-  <a href="https://mertsener.com" title="Portfolio">
-    <svg width="230" height="56" viewBox="0 0 230 56" xmlns="http://www.w3.org/2000/svg">
+  <!-- ===== Pill Button: PORTFOLIO ===== -->
+  <a href="https://mertsener.com" title="Portfolio" style="text-decoration:none;">
+    <svg width="260" height="60" viewBox="0 0 260 60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Portfolio: mertsener.com">
       <defs>
-        <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1">
-          <stop offset="0%" stop-color="#222b44"/>
-          <stop offset="100%" stop-color="#1b2236"/>
+        <linearGradient id="pbtn" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#222c45"/>
+          <stop offset="100%" stop-color="#1a2135"/>
         </linearGradient>
-        <linearGradient id="g3stroke" x1="0" y1="0" x2="1" y2="1">
+        <linearGradient id="pstroke" x1="0" y1="0" x2="1" y2="1">
           <stop offset="0%" stop-color="#3a4160"/>
           <stop offset="100%" stop-color="#2b314c"/>
         </linearGradient>
       </defs>
-      <rect x="1.5" y="1.5" rx="14" ry="14" width="227" height="53" fill="url(#g3)" stroke="url(#g3stroke)"/>
-      <text x="22" y="34" fill="#f3f4f6" font-family="Inter, Segoe UI, Ubuntu, Sans-Serif" font-size="16" font-weight="700">Portfolio</text>
-      <text x="114" y="34" fill="#c7cbe1" font-family="Inter, Segoe UI, Ubuntu, Sans-Serif" font-size="14">mertsener.com</text>
+
+      <rect x="1.5" y="1.5" rx="16" ry="16" width="257" height="57" fill="url(#pbtn)" stroke="url(#pstroke)" filter="url(#softglow)"/>
+      <!-- Icon circle -->
+      <circle cx="30" cy="30" r="14" fill="#111827" />
+      <!-- Vercel triangle -->
+      <path d="M30 20l8 14H22l8-14z" fill="#ffffff"/>
+
+      <!-- Texts -->
+      <text x="54" y="28" fill="#e5e7eb" font-family="Inter, Segoe UI, Ubuntu, Sans-Serif" font-size="14" font-weight="700" letter-spacing=".5">PORTFOLIO</text>
+      <text x="54" y="44" fill="#c7cbe1" font-family="Inter, Segoe UI, Ubuntu, Sans-Serif" font-size="13">mertsener.com</text>
     </svg>
   </a>
 
   <br/><br/>
-  <sub>© <a href="https://github.com/mertsennerr">mertsennerr</a> — modern, soft ve hızlı okunur profil.</sub>
+  <sub>© <a href="https://github.com/mertsenerr">mertsennerr</a> — modern, soft ve hızlı okunur profil.</sub>
 </div>
