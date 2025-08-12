@@ -39,19 +39,25 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>🍽️ Ateş Ocakbaşı — Rezervasyon & Masa Takip</h3>
-      <p>Kullanıcılar anlık olarak <b>dolu/boş</b> masa durumunu görüyor, <b>canlı rezervasyon</b> yapabiliyor ve menüye erişebiliyor. Yönetici tarafında masa planı, rezervasyon onayı ve durum güncellemeleri.</p>
-      <p>
-        <a href="https://github.com/mertsenerr/atesocakbasi">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=atesocakbasi&theme=tokyonight&hide_border=true" />
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-0a0f1f?style=for-the-badge&logo=react" />
-        <img src="https://img.shields.io/badge/Tailwind-0a0f1f?style=for-the-badge&logo=tailwindcss" />
-        <img src="https://img.shields.io/badge/Firebase-0a0f1f?style=for-the-badge&logo=firebase" />
-      </p>
-    </td>
+  <h3>🍽️ Ateş Ocakbaşı — Rezervasyon & Masa Takip</h3>
+  <p>Kullanıcılar anlık olarak <b>dolu/boş</b> masa durumunu görüyor, <b>canlı rezervasyon</b> yapabiliyor ve menüye erişebiliyor. Yönetici tarafında masa planı, rezervasyon onayı ve durum güncellemeleri.</p>
+
+  <!-- Doğru kullanıcı adı + repo adı (PUBLIC olmalı) -->
+  <p>
+    <a href="https://github.com/mertsennerr/atesocakbasi">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsennerr&repo=atesocakbasi&theme=tokyonight&hide_border=true" alt="atesocakbasi pin" />
+    </a>
+  </p>
+
+  <!-- Teknolojiler -->
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-0a0f1f?style=for-the-badge&logo=html5" />
+    <img src="https://img.shields.io/badge/CSS3-0a0f1f?style=for-the-badge&logo=css3" />
+    <img src="https://img.shields.io/badge/React-0a0f1f?style=for-the-badge&logo=react" />
+    <img src="https://img.shields.io/badge/Firebase-0a0f1f?style=for-the-badge&logo=firebase" />
+    <img src="https://img.shields.io/badge/Node.js%20%2F%20Express-0a0f1f?style=for-the-badge&logo=node.js" />
+  </p>
+</td>
     <td width="50%">
       <h3>🎓 Bitirme Projesi — Eğitim Modülü + Speed Test + Wi-Fi Analyzer</h3>
       <p>Eğitsel modüller, quiz akışları, <b>hız testi</b> (gauge animasyonları) ve <b>Wi-Fi Analyzer</b> (sinyal geçmişi, görselleştirme) bileşenlerini içeren uygulama seti.</p>
