@@ -83,63 +83,54 @@
 ---
 
 ## ⭐ Öne Çıkan Projeler
-<!-- Modern “card” görünümlü iki sütun -->
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🍽️ Ateş Ocakbaşı — Rezervasyon & Masa Takip</h3>
-      <p>Kullanıcılar anlık olarak <b>dolu/boş</b> masa durumunu görüyor, <b>canlı rezervasyon</b> yapabiliyor ve menüye erişebiliyor. Yönetici tarafında masa planı, rezervasyon onayı ve durum güncellemeleri.</p>
-      <p>
-        <a href="https://github.com/mertsenerr/atesocakbasi">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=atesocakbasi&theme=tokyonight&hide_border=true" />
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-0a0f1f?style=for-the-badge&logo=react" />
-        <img src="https://img.shields.io/badge/Tailwind-0a0f1f?style=for-the-badge&logo=tailwindcss" />
-        <img src="https://img.shields.io/badge/Firebase-0a0f1f?style=for-the-badge&logo=firebase" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🎓 Bitirme Projesi — Eğitim Modülü + Speed Test + Wi-Fi Analyzer</h3>
-      <p>Eğitsel modüller, quiz akışları, <b>hız testi</b> (gauge animasyonları) ve <b>Wi-Fi Analyzer</b> (sinyal geçmişi, görselleştirme) bileşenlerini içeren uygulama seti.</p>
-      <p>
-        <a href="https://github.com/mertsenerr/networksecuritytools">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=networksecuritytools&theme=tokyonight&hide_border=true" />
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-0a0f1f?style=for-the-badge&logo=react" />
-        <img src="https://img.shields.io/badge/Firebase-0a0f1f?style=for-the-badge&logo=firebase" />
-        <img src="https://img.shields.io/badge/Charts-0a0f1f?style=for-the-badge&logo=recharts" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🗂️ Portfolio</h3>
-      <p>Hakkımda, projeler, iletişim ve küçük etkileşimlerle modern portfolyo.</p>
-      <p>
-        <a href="https://github.com/mertsenerr/myportfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=myportfolio&theme=tokyonight&hide_border=true" />
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-0a0f1f?style=for-the-badge&logo=react" />
-        <img src="https://img.shields.io/badge/Tailwind-0a0f1f?style=for-the-badge&logo=tailwindcss" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🧪 Mini Araçlar & Bileşenler</h3>
-      <p>Küçük ama işlevsel: rezervasyon widget’ları, form/validasyon bileşenleri, UI kart koleksiyonları.</p>
-      <p>
-        <a href="https://github.com/mertsenerr?tab=repositories&q=component">
-          <img src="https://img.shields.io/badge/GitHub-Component%20Kit-1f2335?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+
+### 🍽️ Ateş Ocakbaşı — Rezervasyon & Masa Takip
+Kullanıcılar anlık **dolu/boş/rezerv** masa durumunu görür, **canlı rezervasyon** yapar ve **menü**ye erişir.
+<p>
+  <!-- Repo pin: repo adı farklıysa düzelt -->
+  <a href="https://github.com/mertsennerr/atesocakbasi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsennerr&repo=atesocakbasi&theme=tokyonight&hide_border=true" alt="atesocakbasi pin" />
+  </a>
+</p>
+<!-- Tech badges -->
+<p>
+  <img src="https://img.shields.io/badge/HTML5-0a0f1f?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-0a0f1f?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/React.js-0a0f1f?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Firebase-0a0f1f?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/Node.js%20%2F%20Express-0a0f1f?style=for-the-badge&logo=node.js" />
+</p>
+
+---
+
+### 🎓 Bitirme Projesi — Eğitim Modülü + Speed Test + Wi-Fi Analyzer
+Eğitsel modüller, quiz akışları, **hız testi (gauge)** ve **Wi-Fi Analyzer** (sinyal geçmişi/grafikler) içerir.
+<p>
+  <a href="https://github.com/mertsennerr/networksecuritytools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsennerr&repo=networksecuritytools&theme=tokyonight&hide_border=true" alt="networksecuritytools pin" />
+  </a>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-0a0f1f?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-0a0f1f?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/React.js-0a0f1f?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Firebase-0a0f1f?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/Node.js%20%2F%20Express-0a0f1f?style=for-the-badge&logo=node.js" />
+</p>
+
+---
+
+### 🗂️ Portfolyo
+Hakkım, projeler ve iletişim için modern, hafif ve hızlı bir portfolyo.
+<p>
+  <a href="https://github.com/mertsennerr/myportfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsennerr&repo=myportfolio&theme=tokyonight&hide_border=true" alt="myportfolio pin" />
+  </a>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React.js-0a0f1f?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-0a0f1f?style=for-the-badge&logo=tailwindcss" />
+</p>
 
 ---
 
