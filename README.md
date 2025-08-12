@@ -107,37 +107,71 @@
 ## 📬 İletişim
 
 <div align="center">
+  <p style="color:#9ca3af;">Projeler, iş birlikleri veya hızlı bir merhaba için ulaşabilirsin.</p>
 
-<!-- Intro text -->
-<p style="font-size: 16px; color: #9ca3af;">
-💬 Projeler, iş birlikleri ya da sadece merhaba demek için iletişime geçebilirsin.
-</p>
+  <!-- Gmail -->
+  <a href="mailto:merrtsn20@gmail.com" title="Gmail">
+    <svg width="260" height="56" viewBox="0 0 260 56" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#2a2f45"/>
+          <stop offset="100%" stop-color="#1f2335"/>
+        </linearGradient>
+        <linearGradient id="g1stroke" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#3b4262"/>
+          <stop offset="100%" stop-color="#2b3049"/>
+        </linearGradient>
+      </defs>
+      <rect x="1.5" y="1.5" rx="14" ry="14" width="257" height="53" fill="url(#g1)" stroke="url(#g1stroke)"/>
+      <text x="22" y="34" fill="#f3f4f6" font-family="Inter, Segoe UI, Ubuntu, Sans-Serif" font-size="16" font-weight="700">Gmail</text>
+      <text x="88" y="34" fill="#c7cbe1" font-family="Inter, Segoe UI, Ubuntu, Sans-Serif" font-size="14">merrtsn20@gmail.com</text>
+    </svg>
+  </a>
 
-<!-- Glass effect contact buttons -->
-<table>
-  <tr>
-    <td align="center">
-      <a href="mailto:merrtsn20@gmail.com" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/Gmail-merrtsn20%40gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=d14836&labelColor=1f2937&color=1f2937" alt="Gmail" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://linkedin.com/in/mertsener" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/LinkedIn-@mertsener-ffffff?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=1f2937&color=1f2937" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://mertsener.com" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/Portfolio-mertsener.com-ffffff?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=1f2937&color=1f2937" alt="Portfolio" />
-      </a>
-    </td>
-  </tr>
-</table>
+  <!-- spacing -->
+  &nbsp;&nbsp;
 
-<!-- Smooth underline effect -->
-<br/>
-<p align="center">
-  <sub>© <a href="https://github.com/mertsennerr" style="color:#9aa4ff;text-decoration:none;">mertsennerr</a> — modern, soft ve hızlı okunur profil.</sub>
-</p>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/mertsener" title="LinkedIn">
+    <svg width="220" height="56" viewBox="0 0 220 56" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#22314d"/>
+          <stop offset="100%" stop-color="#1e2842"/>
+        </linearGradient>
+        <linearGradient id="g2stroke" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#3c4666"/>
+          <stop offset="100%" stop-color="#2e3756"/>
+        </linearGradient>
+      </defs>
+      <rect x="1.5" y="1.5" rx="14" ry="14" width="217" height="53" fill="url(#g2)" stroke="url(#g2stroke)"/>
+      <text x="22" y="34" fill="#f3f4f6" font-family="Inter, Segoe UI, Ubuntu, Sans-Serif" font-size="16" font-weight="700">LinkedIn</text>
+      <text x="112" y="34" fill="#c7cbe1" font-family="Inter, Segoe UI, Ubuntu, Sans-Serif" font-size="14">@mertsener</text>
+    </svg>
+  </a>
 
+  <!-- spacing -->
+  &nbsp;&nbsp;
+
+  <!-- Portfolio -->
+  <a href="https://mertsener.com" title="Portfolio">
+    <svg width="230" height="56" viewBox="0 0 230 56" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#222b44"/>
+          <stop offset="100%" stop-color="#1b2236"/>
+        </linearGradient>
+        <linearGradient id="g3stroke" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#3a4160"/>
+          <stop offset="100%" stop-color="#2b314c"/>
+        </linearGradient>
+      </defs>
+      <rect x="1.5" y="1.5" rx="14" ry="14" width="227" height="53" fill="url(#g3)" stroke="url(#g3stroke)"/>
+      <text x="22" y="34" fill="#f3f4f6" font-family="Inter, Segoe UI, Ubuntu, Sans-Serif" font-size="16" font-weight="700">Portfolio</text>
+      <text x="114" y="34" fill="#c7cbe1" font-family="Inter, Segoe UI, Ubuntu, Sans-Serif" font-size="14">mertsener.com</text>
+    </svg>
+  </a>
+
+  <br/><br/>
+  <sub>© <a href="https://github.com/mertsennerr">mertsennerr</a> — modern, soft ve hızlı okunur profil.</sub>
 </div>
