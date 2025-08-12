@@ -107,41 +107,47 @@ qqqqqq<!-- Banner -->
 ## 📬 İletişim
 
 <p align="center" style="color:#9ca3af;">
-  Projeler, iş birlikleri veya hızlı bir merhaba için ulaşabilirsin.
+  ✨ Projeler, iş birlikleri veya hızlı bir merhaba için bana ulaşabilirsin.
 </p>
 
-<p align="center">
-  <!-- Gmail -->
-  <a href="mailto:merrtsn20@gmail.com" title="Gmail" style="text-decoration:none;margin:0 6px;">
-    <img
-      alt="Gmail"
-      height="44"
-      src="https://img.shields.io/badge/Gmail-merrtsn20%40gmail.com-1f2937?style=for-the-badge&logo=gmail&logoColor=d14836&labelColor=111827"
-    />
-  </a>
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/mertsener" title="LinkedIn" style="text-decoration:none;margin:0 6px;">
-    <img
-      alt="LinkedIn"
-      height="44"
-      src="https://img.shields.io/badge/LinkedIn-@mertsener-1f2937?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111827"
-    />
-  </a>
-  <!-- Portfolio -->
-  <a href="https://mertsener.com" title="Portfolio" style="text-decoration:none;margin:0 6px;">
-    <img
-      alt="Portfolio"
-      height="44"
-      src="https://img.shields.io/badge/Portfolio-mertsener.com-1f2937?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=111827"
-    />
-  </a>
-</p>
+<!-- === Icon grid (üstte büyük ikonlar + etiketler) === -->
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <a href="mailto:merrtsn20@gmail.com">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="34" alt="Gmail" />
+        <div><sub>Gmail</sub></div>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://linkedin.com/in/mertsener">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="34" alt="LinkedIn" />
+        <div><sub>LinkedIn</sub></div>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://mertsener.com">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" width="34" alt="Portfolio" />
+        <div><sub>Portfolio</sub></div>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<!-- subtle divider -->
+<!-- soft divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1f2335&height=2&section=footer&reversal=true&text=" width="60%" />
 </p>
 
+<!-- === Badge buttons (alt sırada uzun butonlar) === -->
 <p align="center">
-  <sub>© <a href="https://github.com/mertsennerr">mertsennerr</a> — modern, soft ve hızlı okunur profil.</sub>
-</p>
+  <a href="mailto:merrtsn20@gmail.com" title="Gmail" style="text-decoration:none;margin:0 6px;">
+    <img alt="Gmail" height="44"
+      src="https://img.shields.io/badge/✉️%20%20merrtsn20%40gmail.com-1f2937?style=for-the-badge&logo=gmail&logoColor=d14836&labelColor=111827" />
+  </a>
+  <a href="https://linkedin.com/in/mertsener" title="LinkedIn" style="text-decoration:none;margin:0 6px;">
+    <img alt="LinkedIn" height="44"
+      src="https://img.shields.io/badge/🔗%20%20linkedin.com%2Fin%2Fmertsener-1f2937?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111827" />
+  </a>
+  <a href="https://mertsener.com" title="Portfolio" style="text-decoration:none;margin:0 6px;">
+    <img alt="Portfolio" height="44"
