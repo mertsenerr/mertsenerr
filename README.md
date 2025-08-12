@@ -97,9 +97,9 @@
 
 ## 📈 İstatistikler
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mertsennerr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" />
-  <img height="165" src="https://streak-stats.demolab.com?user=mertsennerr&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertsennerr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" />
+  <img height="165" src="https://streak-stats.demolab.com?user=mertsenerr&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -112,5 +112,5 @@
 </p>
 
 <p align="center">
-  <sub>© <a href="https://github.com/mertsennerr">mertsennerr</a> — modern, soft ve hızlı okunur profil.</sub>
+  <sub>© <a href="https://github.com/mertsenerr">mertsennerr</a> — modern, soft ve hızlı okunur profil.</sub>
 </p>
