@@ -83,6 +83,7 @@
         </a>
       </p>
       <p>
+        <img src="https://img.shields.io/badge/HTML5-0a0f1f?style=for-the-badge&logo=html5" />
         <img src="https://img.shields.io/badge/React-0a0f1f?style=for-the-badge&logo=react" />
         <img src="https://img.shields.io/badge/Tailwind-0a0f1f?style=for-the-badge&logo=tailwindcss" />
       </p>
