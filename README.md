@@ -10,23 +10,58 @@
 
 ---
 
-## 👋 Hakkımda
-Merhaba, ben **Mert Şener**, 24 yaşındayım. Modern web projeleri ve kullanıcı dostu yazılımlar geliştirmeye odaklanıyorum.
+<!-- === ABOUT / HAKKIMDA — Soft Card + Timeline === -->
+<div align="center">
+  
+  <!-- Section header line -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1f2335&height=2&section=header&reversal=true&text=" width="100%"/>
 
-- 🎓 **Eğitim ve Akademik Başarılar**
-  - **Maltepe Üniversitesi** — %50 burslu, 2 yıl **Bilgisayar Programcılığı**  
-    - Bölüm 3.lüğü ile mezuniyet  
-    - **PARDON Mobil Teknolojileri Hizmetleri A.Ş.**’de 2 ay süren staj  
-  - **DGS**’de 3000–4000 sıralama bandı ile geçiş  
-  - **Yaşar Üniversitesi** (İzmir) — %25 burslu **Bilgisayar Mühendisliği** bölümü
+  <!-- Soft glass-like card -->
+  <div>
+    <h2>👋 Hakkımda</h2>
 
-- 💻 **Üzerinde Çalıştığım Projeler**
-  - **Ateş Ocakbaşı** — Gerçek zamanlı masa durumu (dolu/boş/rezerv) takibi, online rezervasyon sistemi ve menü erişimi.
-  - **Bitirme Projesi** — Eğitim modülü, hız testi ve Wi-Fi Analyzer bileşenlerini içeren uygulama paketi.
-  - **Portfolyo** — [mertsener.com](https://mertsener.com) üzerinden projelerim ve hakkımda bilgiler.
+    <!-- subtle typing (optional animation) -->
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&duration=2500&pause=1200&center=true&vCenter=true&width=520&lines=Modern+web+projeleri;Kullan%C4%B1c%C4%B1+dostu+ak%C4%B1%C5%9Flar;Ger%C3%A7ek+zamanl%C4%B1+rezervasyon+sistemleri" />
 
-- 🌐 **Dil Yetkinliği**
-  - İngilizce — Akıcı konuşma ve yazma (B2–C1)
+    <br/>
+
+    <!-- quick tags -->
+    <p>
+      <img src="https://img.shields.io/badge/Ya%C5%9F-24-111827?style=for-the-badge&labelColor=0b1220">
+      <img src="https://img.shields.io/badge/English-B2~C1-111827?style=for-the-badge&labelColor=0b1220&logo=google-translate">
+      <img src="https://img.shields.io/badge/Focus-UX%20%26%20Realtime%20Flows-111827?style=for-the-badge&labelColor=0b1220">
+    </p>
+
+    <!-- one-liner -->
+    <p><b>Merhaba, ben Mert Şener.</b> Modern web arayüzleri ve gerçek zamanlı rezervasyon deneyimleri tasarlayıp geliştiriyorum.</p>
+
+    <!-- timeline -->
+    <table>
+      <tr>
+        <td align="left" width="520">
+
+**🎓 Eğitim & Başarılar**
+- **Maltepe Üniversitesi** — %50 burslu, 2 yıl **Bilgisayar Programcılığı**  
+  - Bölüm **3.lüğü** ile mezuniyet  
+  - **PARDON Mobil Teknolojileri A.Ş.** — 2 ay staj  
+- **DGS** — **3000–4000** sıralama bandı  
+- **Yaşar Üniversitesi** (İzmir) — %25 burslu **Bilgisayar Mühendisliği**
+
+**💼 Üzerinde Çalıştıklarım**
+- **Ateş Ocakbaşı**: Anlık **dolu/boş/rezerv** masa görünümü, canlı **online rezervasyon**, **menü** erişimi  
+- **Bitirme Projesi**: Eğitim modülü + **Speed Test (gauge)** + **Wi-Fi Analyzer** (sinyal geçmişi/grafikler)  
+- **Portfolyo**: <a href="https://mertsener.com">mertsener.com</a>
+        </td>
+      </tr>
+    </table>
+
+  </div>
+
+  <!-- Section footer line -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1f2335&height=2&section=footer&reversal=true&text=" width="100%"/>
+
+</div>
+
 
 ---
 
@@ -117,13 +152,32 @@ Merhaba, ben **Mert Şener**, 24 yaşındayım. Modern web projeleri ve kullanı
 
 ---
 
-## 📬 İletişim
-<p>
-  <a href="mailto:merrtsn20@gmail.com"><img src="https://img.shields.io/badge/Gmail-merrtsn20%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
-  <a href="https://linkedin.com/in/mertsener"><img src="https://img.shields.io/badge/LinkedIn-mertsener-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
-  <a href="https://mertsener.com"><img src="https://img.shields.io/badge/Portfolio-mertsener.com-111?style=for-the-badge&logo=vercel&logoColor=fff" /></a>
-</p>
+<!-- === CONTACT / İLETİŞİM — Big Buttons Row === -->
+<div align="center">
 
-<p align="center">
-  <sub>© <a href="https://github.com/mertsennerr">mertsennerr</a> — modern, soft ve hızlı okunur profil.</sub>
-</p>
+  <!-- spacer -->
+  <br/>
+
+  <h2>📬 İletişim</h2>
+  <p>Projeler, iş birlikleri ya da hızlı bir merhaba için ulaşırsan sevinirim.</p>
+
+  <!-- big pill buttons -->
+  <p>
+    <a href="mailto:merrtsn20@gmail.com">
+      <img src="https://img.shields.io/badge/Eposta-merrtsn20%40gmail.com-0b1220?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=111827" />
+    </a>
+    <a href="https://linkedin.com/in/mertsener" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-@mertsener-0b1220?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=111827" />
+    </a>
+    <a href="https://mertsener.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-mertsener.com-0b1220?style=for-the-badge&logo=vercel&logoColor=fff&labelColor=111827" />
+    </a>
+  </p>
+
+  <!-- optional mini pulse (animation via svg) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=14&duration=2200&pause=1600&center=true&vCenter=true&width=320&lines=Let%E2%80%99s+build+something+clean.;Modern%2C+h%C4%B1zl%C4%B1%2C+eri%C5%9Filebilir.">
+
+  <!-- subtle divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1f2335&height=2&section=footer&reversal=true&text=" width="100%"/>
+
+</div>
