@@ -14,7 +14,7 @@ Merhaba, ben **Mert Şener** (24). Yazılım geliştirme alanında hem akademik 
 Eğitim ve iş deneyimlerim, hem web hem de mobil tabanlı projeler geliştirmemde güçlü bir altyapı sağladı.  
 
 🎓 **Eğitim:**
-- İstanbul, **Maltepe Üniversitesi** – %50 burslu, 2 yıl **Bilgisayar Programcılığı** mezunu  
+- İstanbul, **Maltepe Üniversitesi** – %50 burslu, 2 yıl **Bilgisayar Programcılığı** mezunu (3.53 GPA)
 - İzmir, **Yaşar Üniversitesi** – %25 burslu, **Bilgisayar Mühendisliği** öğrencisi  
 
 💼 **Deneyim:**
