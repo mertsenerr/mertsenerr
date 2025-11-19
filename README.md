@@ -48,7 +48,7 @@ My education and projects have helped me build a strong foundation in **web** an
   <tr>
     <td width="50%" valign="top">
 
-      <h3>🍽️ Ateş Ocakbaşı — Reservation & Table Management</h3>
+  <h3>🍽️ Ateş Ocakbaşı — Reservation & Table Management</h3>
       <p>
         A real-time reservation system where users can view <b>live table availability</b>, make reservations, 
         and browse the menu. Admin panel includes table layout, reservation approval, and status updates.
@@ -59,11 +59,11 @@ My education and projects have helped me build a strong foundation in **web** an
           alt="atesocakbasi repo" />
       </a>
 
-    </td>
+  </td>
 
-    <td width="50%" valign="top">
+  <td width="50%" valign="top">
 
-      <h3>🎓 Graduation Project — Education Module + Speed Test + Wi-Fi Analyzer</h3>
+   <h3>🎓 Graduation Project — Education Module + Speed Test + Wi-Fi Analyzer</h3>
       <p>
         An integrated platform featuring interactive training modules, quizzes, a <b>Speed Test</b> with gauge 
         animations, and a <b>Wi-Fi Analyzer</b> with live signal graphs and data history.
@@ -74,14 +74,14 @@ My education and projects have helped me build a strong foundation in **web** an
           alt="networksecuritytools repo" />
       </a>
 
-    </td>
+  </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
 
-      <h3>🗂️ Portfolio</h3>
-      <p>
+   <h3>🗂️ Portfolio</h3>
+     <p>
         A modern personal portfolio with sections like About, Projects, and Contact — built with smooth 
         animations and responsive design.
       </p>
@@ -91,11 +91,11 @@ My education and projects have helped me build a strong foundation in **web** an
           alt="myportfolio repo" />
       </a>
 
-    </td>
+  </td>
 
-    <td width="50%" valign="top">
+  <td width="50%" valign="top">
 
-      <h3>🧪 Mini Tools & Components</h3>
+  <h3>🧪 Mini Tools & Components</h3>
       <p>
         A collection of UI widgets, reservation tools, validation forms, and reusable component kits.
       </p>
@@ -105,7 +105,7 @@ My education and projects have helped me build a strong foundation in **web** an
           alt="component kit" />
       </a>
 
-    </td>
+  </td>
   </tr>
 </table>
 
@@ -137,7 +137,7 @@ My education and projects have helped me build a strong foundation in **web** an
       </a>
     </td>
 
-    <td align="center" width="180">
+  <td align="center" width="180">
       <a href="https://linkedin.com/in/mertsener">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="36" height="36" />
         <div><span style="font-weight:600; font-size:13.5px; color:#0A66C2;">LinkedIn</span></div>
