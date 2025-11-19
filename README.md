@@ -46,49 +46,69 @@ My education and projects have helped me build a strong foundation in **web** an
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
+
       <h3>🍽️ Ateş Ocakbaşı — Reservation & Table Management</h3>
-      <p>A real-time reservation system where users can view <b>live table availability</b>, make reservations, and browse the menu. Admin panel includes table layout, reservation approval, and status updates.</p>
       <p>
-        <a href="https://github.com/mertsenerr/atesocakbasi">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=atesocakbasi&theme=tokyonight&hide_border=true" />
-        </a>
+        A real-time reservation system where users can view <b>live table availability</b>, make reservations, 
+        and browse the menu. Admin panel includes table layout, reservation approval, and status updates.
       </p>
+      <a href="https://github.com/mertsenerr/atesocakbasi">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=atesocakbasi&theme=tokyonight&hide_border=true" 
+          alt="atesocakbasi repo" />
+      </a>
+
     </td>
 
-    <td width="50%">
+    <td width="50%" valign="top">
+
       <h3>🎓 Graduation Project — Education Module + Speed Test + Wi-Fi Analyzer</h3>
-      <p>An integrated platform featuring interactive training modules, quizzes, a <b>Speed Test</b> with gauge animations, and a <b>Wi-Fi Analyzer</b> with live signal graphs and data history.</p>
       <p>
-        <a href="https://github.com/mertsenerr/networksecuritytools">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=networksecuritytools&theme=tokyonight&hide_border=true" />
-        </a>
+        An integrated platform featuring interactive training modules, quizzes, a <b>Speed Test</b> with gauge 
+        animations, and a <b>Wi-Fi Analyzer</b> with live signal graphs and data history.
       </p>
+      <a href="https://github.com/mertsenerr/networksecuritytools">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=networksecuritytools&theme=tokyonight&hide_border=true" 
+          alt="networksecuritytools repo" />
+      </a>
+
     </td>
   </tr>
 
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
+
       <h3>🗂️ Portfolio</h3>
-      <p>A modern personal portfolio with About, Projects, Contact, and smooth UI animations.</p>
       <p>
-        <a href="https://github.com/mertsenerr/myportfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=myportfolio&theme=tokyonight&hide_border=true" />
-        </a>
+        A modern personal portfolio with sections like About, Projects, and Contact — built with smooth 
+        animations and responsive design.
       </p>
+      <a href="https://github.com/mertsenerr/myportfolio">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=myportfolio&theme=tokyonight&hide_border=true" 
+          alt="myportfolio repo" />
+      </a>
+
     </td>
 
-    <td width="50%">
+    <td width="50%" valign="top">
+
       <h3>🧪 Mini Tools & Components</h3>
-      <p>A growing collection of UI widgets, reservation tools, validation forms, and reusable component kits.</p>
       <p>
-        <a href="https://github.com/mertsenerr?tab=repositories&q=component">
-          <img src="https://img.shields.io/badge/GitHub-Component%20Kit-1f2335?style=for-the-badge&logo=github" />
-        </a>
+        A collection of UI widgets, reservation tools, validation forms, and reusable component kits.
       </p>
+      <a href="https://github.com/mertsenerr?tab=repositories&q=component">
+        <img 
+          src="https://img.shields.io/badge/GitHub-Component%20Kit-1f2335?style=for-the-badge&logo=github" 
+          alt="component kit" />
+      </a>
+
     </td>
   </tr>
 </table>
+
 
 ---
 
