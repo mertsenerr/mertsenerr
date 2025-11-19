@@ -3,36 +3,36 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2500&pause=1000&color=9aa4ff&center=true&vCenter=true&width=640&lines=Modern+Web+Arayuzleri;Gercek+Zamanli+Rezervasyon+Akislari;Performans+ve+Kullanilabilirlik+Odakli+Gelisim" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2500&pause=1000&color=9aa4ff&center=true&vCenter=true&width=640&lines=Modern+Web+Interfaces;Real-Time+Reservation+Systems;Performance+%26+Usability+Focused+Development" />
 </p>
 
 ---
 
-## 📌 Hakkımda
+## 📌 About Me
 
-Merhaba, ben **Mert Şener** (24). Yazılım geliştirme alanında hem akademik hem de pratik deneyime sahip bir geliştiriciyim.  
-Eğitim ve iş deneyimlerim, hem web hem de mobil tabanlı projeler geliştirmemde güçlü bir altyapı sağladı.  
+Hi! I’m **Mert Şener** (24), a passionate **Full Stack Developer** with both academic and hands-on experience in building modern, scalable applications.  
 
-🎓 **Eğitim:**
-- İstanbul, **Maltepe Üniversitesi** – %50 burslu, 2 yıl **Bilgisayar Programcılığı** mezunu (3.53 GPA)
-- İzmir, **Yaşar Üniversitesi** – %25 burslu, **Bilgisayar Mühendisliği** öğrencisi  
+My education and projects have helped me build a strong foundation in **web** and **mobile** development.
 
-💼 **Deneyim:**
-- **2 Aylık Frontend Stajı** – *Pardon Mobil Teknolojileri A.Ş.*  
-  Modern web arayüzleri geliştirme, responsive tasarım ve kullanıcı deneyimi optimizasyonu alanlarında tecrübe edindim.
+🎓 **Education**
+- **Maltepe University**, Istanbul — Associate Degree in Computer Programming (50% scholarship, GPA: 3.53)
+- **Yaşar University**, Izmir — Computer Engineering (25% scholarship)
 
-🌍 **Yabancı Dil:**
-- İngilizce: Akıcı konuşma (B2-C1 seviyesi)
+💼 **Experience**
+- **Frontend Intern — Pardon Mobile Technologies A.Ş.**  
+  Worked on modern UIs, responsive design, and frontend performance optimization.
+
+🌍 **Languages**
+- English: Fluent (B2–C1)
 
 ---
 
 ## 🧰 Tech Stack
-<!-- Soft, modern icons (skillicons) -->
+
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,vercel,nodejs,express,firebase,redis,postgres,mongodb,git,github,figma&theme=dark" /></a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,vercel,nodejs,express,firebase,redis,postgres,mongodb,git,github,figma&theme=dark" />
 </p>
 
-<!-- Soft animated skill badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-1f2335?style=for-the-badge&labelColor=111827" />
   <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-1f2335?style=for-the-badge&labelColor=111827" />
@@ -42,63 +42,45 @@ Eğitim ve iş deneyimlerim, hem web hem de mobil tabanlı projeler geliştirmem
 
 ---
 
-## ⭐ Öne Çıkan Projeler
-<!-- Modern “card” görünümlü iki sütun -->
+## ⭐ Featured Projects
+
 <table>
   <tr>
     <td width="50%">
-      <h3>🍽️ Ateş Ocakbaşı — Rezervasyon & Masa Takip</h3>
-      <p>Kullanıcılar anlık olarak <b>dolu/boş</b> masa durumunu görüyor, <b>canlı rezervasyon</b> yapabiliyor ve menüye erişebiliyor. Yönetici tarafında masa planı, rezervasyon onayı ve durum güncellemeleri.</p>
-      <!-- Doğru kullanıcı adı + repo adı (PUBLIC olmalı) -->
+      <h3>🍽️ Ateş Ocakbaşı — Reservation & Table Management</h3>
+      <p>A real-time reservation system where users can view <b>live table availability</b>, make reservations, and browse the menu. Admin panel includes table layout, reservation approval, and status updates.</p>
       <p>
         <a href="https://github.com/mertsenerr/atesocakbasi">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=atesocakbasi&theme=tokyonight&hide_border=true" alt="atesocakbasi pin" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=atesocakbasi&theme=tokyonight&hide_border=true" />
         </a>
-      </p> 
-      <!-- Teknolojiler -->
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-0a0f1f?style=for-the-badge&logo=html5" />
-        <img src="https://img.shields.io/badge/CSS3-0a0f1f?style=for-the-badge&logo=css3" />
-        <img src="https://img.shields.io/badge/React-0a0f1f?style=for-the-badge&logo=react" />
-        <img src="https://img.shields.io/badge/Firebase-0a0f1f?style=for-the-badge&logo=firebase" />
-        <img src="https://img.shields.io/badge/Node.js%20%2F%20Express-0a0f1f?style=for-the-badge&logo=node.js" />
       </p>
     </td>
+
     <td width="50%">
-      <h3>🎓 Bitirme Projesi — Eğitim Modülü + Speed Test + Wi-Fi Analyzer</h3>
-      <p>Eğitsel modüller, quiz akışları, <b>hız testi</b> (gauge animasyonları) ve <b>Wi-Fi Analyzer</b> (sinyal geçmişi, görselleştirme) bileşenlerini içeren uygulama seti.</p>
+      <h3>🎓 Graduation Project — Education Module + Speed Test + Wi-Fi Analyzer</h3>
+      <p>An integrated platform featuring interactive training modules, quizzes, a <b>Speed Test</b> with gauge animations, and a <b>Wi-Fi Analyzer</b> with live signal graphs and data history.</p>
       <p>
         <a href="https://github.com/mertsenerr/networksecuritytools">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=networksecuritytools&theme=tokyonight&hide_border=true" />
         </a>
       </p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-0a0f1f?style=for-the-badge&logo=html5" />
-        <img src="https://img.shields.io/badge/CSS3-0a0f1f?style=for-the-badge&logo=css3" />
-        <img src="https://img.shields.io/badge/React-0a0f1f?style=for-the-badge&logo=react" />
-        <img src="https://img.shields.io/badge/Firebase-0a0f1f?style=for-the-badge&logo=firebase" />
-        <img src="https://img.shields.io/badge/Node.js%20%2F%20Express-0a0f1f?style=for-the-badge&logo=node.js" />
-      </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
       <h3>🗂️ Portfolio</h3>
-      <p>Hakkımda, projeler, iletişim ve küçük etkileşimlerle modern portfolyo.</p>
+      <p>A modern personal portfolio with About, Projects, Contact, and smooth UI animations.</p>
       <p>
         <a href="https://github.com/mertsenerr/myportfolio">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=myportfolio&theme=tokyonight&hide_border=true" />
         </a>
       </p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-0a0f1f?style=for-the-badge&logo=html5" />
-        <img src="https://img.shields.io/badge/React-0a0f1f?style=for-the-badge&logo=react" />
-        <img src="https://img.shields.io/badge/Tailwind-0a0f1f?style=for-the-badge&logo=tailwindcss" />
-      </p>
     </td>
+
     <td width="50%">
-      <h3>🧪 Mini Araçlar & Bileşenler</h3>
-      <p>Küçük ama işlevsel: rezervasyon widget’ları, form/validasyon bileşenleri, UI kart koleksiyonları.</p>
+      <h3>🧪 Mini Tools & Components</h3>
+      <p>A growing collection of UI widgets, reservation tools, validation forms, and reusable component kits.</p>
       <p>
         <a href="https://github.com/mertsenerr?tab=repositories&q=component">
           <img src="https://img.shields.io/badge/GitHub-Component%20Kit-1f2335?style=for-the-badge&logo=github" />
@@ -110,57 +92,40 @@ Eğitim ve iş deneyimlerim, hem web hem de mobil tabanlı projeler geliştirmem
 
 ---
 
-## 📈 İstatistikler
+## 📈 GitHub Stats
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://streak-stats.demolab.com?user=mertsenerr&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
 
-## 📬 İletişim
+## 📬 Contact
 
 <p align="center" style="color:#9ca3af;">
-  ✨ Projeler, iş birlikleri veya hızlı bir merhaba için bana ulaşabilirsin.
+  ✨ Feel free to reach out for collaborations, opportunities, or just to say hi!
 </p>
 
-
-<!-- === Icon grid (brand-colored + smooth labels) === -->
 <table align="center">
   <tr>
-   <!-- Gmail -->
     <td align="center" width="180">
-      <a href="mailto:merrtsn20@gmail.com" style="text-decoration:none;">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Gmail icon" />
-        <div>
-          <span style="font-family:Inter,Segoe UI,Ubuntu,Arial,sans-serif;
-                       font-weight:600; font-size:13.5px; letter-spacing:.2px;
-                       color:#EA4335; display:inline-block; margin-top:6px;">
-            Gmail
-          </span>
-        </div>
+      <a href="mailto:merrtsn20@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" />
+        <div><span style="font-weight:600; font-size:13.5px; color:#EA4335;">Gmail</span></div>
       </a>
     </td>
-    <!-- LinkedIn -->
+
     <td align="center" width="180">
-      <a href="https://linkedin.com/in/mertsener" style="text-decoration:none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="36" height="36" alt="LinkedIn icon" />
-        <div>
-          <span style="font-family:Inter,Segoe UI,Ubuntu,Arial,sans-serif;
-                       font-weight:600; font-size:13.5px; letter-spacing:.2px;
-                       color:#0A66C2; display:inline-block; margin-top:6px;">
-            LinkedIn
-          </span>
-        </div>
+      <a href="https://linkedin.com/in/mertsener">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="36" height="36" />
+        <div><span style="font-weight:600; font-size:13.5px; color:#0A66C2;">LinkedIn</span></div>
       </a>
     </td>
   </tr>
 </table>
 
-
-
-<!-- soft divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1f2335&height=2&section=footer&reversal=true&text=" width="60%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1f2335&height=2&section=footer&reversal=true" width="60%" />
 </p>
