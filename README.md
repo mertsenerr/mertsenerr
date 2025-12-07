@@ -112,7 +112,7 @@ My education and projects have helped me build a strong foundation in **web** an
   <img src="https://mertsenerr-github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170" alt="GitHub Stats" />
 
   <!-- Stack -->
-  <img src="https://streak-stats.demolab.com?user=mertsenerr&theme=tokyonight&hide_border=true&date_format=M%20j" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=mertsenerr&theme=tokyonight&hide_border=true&border_radius=10" height="170" alt="GitHub Streak"/>
   
   <!-- Languages --> 
   <img src="https://mertsenerr-github-readme-stats.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170" alt="Top Languages" />
