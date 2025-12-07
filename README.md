@@ -102,7 +102,6 @@ My education and projects have helped me build a strong foundation in **web** an
   </tr>
 </table>
 
-
 ---
 
 ## 📈 GitHub Stats
