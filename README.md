@@ -104,28 +104,31 @@ My education and projects have helped me build a strong foundation in **web** an
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
+## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center">
 
-  <!-- LEFT CARD — GitHub Stats -->
-  <div>
-    <img 
-      src="https://mertsenerr-github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" 
-      height="180"
-    />
-  </div>
+  <!-- Stats -->
+  <img 
+    src="https://mertsenerr-github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" 
+    height="170" 
+    alt="GitHub Stats"
+  />
 
-  <!-- RIGHT CARD — Top Languages -->
-  <div>
-    <img 
-      src="https://mertsenerr-github-readme-stats.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" 
-      height="180"
-    />
-  </div>
+  <!-- Languages -->
+  <img 
+    src="https://mertsenerr-github-readme-stats.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" 
+    height="170" 
+    alt="Top Languages"
+  />
+
+  <!-- Trophy -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=mertsenerr&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10" 
+    alt="GitHub Trophies"
+  />
 
 </div>
-
 
 ---
 
