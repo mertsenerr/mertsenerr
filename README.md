@@ -104,31 +104,37 @@ My education and projects have helped me build a strong foundation in **web** an
 
 ---
 
-## 📈 GitHub Stats
+## 🧱 Current Stack Overview
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mertsenerr&theme=tokyonight" 
+    alt="Current Stack Overview"
+  />
+</p>
 
 <div align="center">
-
-  <!-- Stats -->
   <img 
-    src="https://mertsenerr-github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" 
-    height="170" 
-    alt="GitHub Stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mertsenerr&theme=tokyonight" 
+    height="150"
   />
-
-  <!-- Languages -->
   <img 
-    src="https://mertsenerr-github-readme-stats.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" 
-    height="170" 
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mertsenerr&theme=tokyonight" 
+    height="150"
   />
-
-  <!-- Trophy -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=mertsenerr&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10" 
-    alt="GitHub Trophies"
-  />
-
 </div>
+
+<div align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mertsenerr&theme=tokyonight" 
+    height="150"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mertsenerr&theme=tokyonight" 
+    height="150"
+  />
+</div>
+
 
 ---
 
