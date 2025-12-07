@@ -52,9 +52,9 @@ A real-time reservation system where users can view **live table availability**,
 Admin panel includes table layout, reservation approval, and status updates.
 
 <p>
-  <a href="https://github.com/mertsenerr/atesocakbasi" target="_blank">
+  <a href="https://github.com/mertsenerr/atesocakbasi">
     <img 
-      src="https://gh-readme-stats-e2vz.vercel.app/api/pin/?username=mertsenerr&repo=atesocakbasi&theme=tokyonight&hide_border=false&border_radius=10"
+      src="https://img.shields.io/badge/Go%20to%20Repository-1f2335?style=for-the-badge&logo=github&logoColor=white" 
     />
   </a>
 </p>
@@ -66,9 +66,9 @@ Admin panel includes table layout, reservation approval, and status updates.
 A modern personal portfolio built with smooth animations, responsive layout, and clean component structure.
 
 <p>
-  <a href="https://github.com/mertsenerr/myportfolio" target="_blank">
+ <a href="https://github.com/mertsenerr/myportfolio">
     <img 
-      src="https://gh-readme-stats-e2vz.vercel.app/api/pin/?username=mertsenerr&repo=myportfolio&theme=tokyonight&hide_border=false&border_radius=10"
+      src="https://img.shields.io/badge/Go%20to%20Repository-1f2335?style=for-the-badge&logo=github&logoColor=white" 
     />
   </a>
 </p>
@@ -80,9 +80,9 @@ A modern personal portfolio built with smooth animations, responsive layout, and
 An integrated platform featuring interactive training modules, quizzes, an animated **Speed Test**, and a **Wi-Fi Analyzer** with real-time signal graphs.
 
 <p>
-  <a href="https://github.com/mertsenerr/networksecuritytools" target="_blank">
+  <a href="https://github.com/mertsenerr/networksecuritytools">
     <img 
-      src="https://gh-readme-stats-e2vz.vercel.app/api/pin/?username=mertsenerr&repo=networksecuritytools&theme=tokyonight&hide_border=false&border_radius=10"
+      src="https://img.shields.io/badge/Go%20to%20Repository-1f2335?style=for-the-badge&logo=github&logoColor=white" 
     />
   </a>
 </p>
