@@ -56,7 +56,7 @@ My education and projects have helped me build a strong foundation in **web** an
     </td>
 
     <!-- Project 2 -->
-    <td width="50%" style="padding: 15px; vertical-align: top;">
+  <td width="50%" style="padding: 15px; vertical-align: top;">
       <h3>🗂️ Portfolio</h3>
       <p>A modern animated personal portfolio focused on minimal UI/UX and smooth transitions.</p>
       <a href="https://github.com/mertsenerr/myportfolio">
@@ -76,7 +76,7 @@ My education and projects have helped me build a strong foundation in **web** an
     </td>
 
     <!-- Project 4 -->
-    <td width="50%" style="padding: 15px; vertical-align: top;">
+  <td width="50%" style="padding: 15px; vertical-align: top;">
       <h3>🧩 Mini Tools & Components</h3>
       <p>A collection of reusable UI widgets, validators, helpers, and component kits.</p>
       <a href="https://github.com/mertsenerr?tab=repositories&q=component">
