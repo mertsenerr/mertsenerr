@@ -42,66 +42,76 @@ My education and projects have helped me build a strong foundation in **web** an
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Featured Projects
 
----
+<div align="center">
+
+<!-- Card 1 -->
+<div style="
+  background: linear-gradient(135deg, #1f2335, #2a2f49);
+  padding: 22px;
+  border-radius: 14px;
+  width: 85%;
+  margin-bottom: 20px;
+  border: 1px solid #2f3651;
+  box-shadow: 0 0 12px rgba(80, 90, 255, 0.15);
+  text-align: left;
+">
 
 ### 🍽️ Ateş Ocakbaşı — Reservation & Table Management
+A modern real-time reservation system with table status, admin panel, and live availability.
 
-A real-time reservation system where users can view **live table availability**, make reservations, and browse the menu.  
-Admin panel includes table layout, reservation approval, and status updates.
+<a href="https://github.com/mertsenerr/atesocakbasi">
+  <img src="https://img.shields.io/badge/View%20Project-6366f1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<p>
-  <a href="https://github.com/mertsenerr/atesocakbasi">
-    <img 
-      src="https://img.shields.io/badge/Go%20to%20Repository-1f2335?style=for-the-badge&logo=github&logoColor=white" 
-    />
-  </a>
-</p>
+</div>
 
----
+
+<!-- Card 2 -->
+<div style="
+  background: linear-gradient(135deg, #1f2335, #2a2f49);
+  padding: 22px;
+  border-radius: 14px;
+  width: 85%;
+  margin-bottom: 20px;
+  border: 1px solid #2f3651;
+  box-shadow: 0 0 12px rgba(80, 90, 255, 0.15);
+  text-align: left;
+">
 
 ### 🗂️ Portfolio
+A clean and animated personal portfolio built with modern UI/UX principles.
 
-A modern personal portfolio built with smooth animations, responsive layout, and clean component structure.
+<a href="https://github.com/mertsenerr/myportfolio">
+  <img src="https://img.shields.io/badge/View%20Project-6366f1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<p>
- <a href="https://github.com/mertsenerr/myportfolio">
-    <img 
-      src="https://img.shields.io/badge/Go%20to%20Repository-1f2335?style=for-the-badge&logo=github&logoColor=white" 
-    />
-  </a>
-</p>
+</div>
 
----
+
+<!-- Card 3 -->
+<div style="
+  background: linear-gradient(135deg, #1f2335, #2a2f49);
+  padding: 22px;
+  border-radius: 14px;
+  width: 85%;
+  margin-bottom: 20px;
+  border: 1px solid #2f3651;
+  box-shadow: 0 0 12px rgba(80, 90, 255, 0.15);
+  text-align: left;
+">
 
 ### 🎓 Graduation Project — Education Module + Speed Test + Wi-Fi Analyzer
+Integrated system with Training Modules, Gauge-based SpeedTest, and real-time WiFi Analyzer.
 
-An integrated platform featuring interactive training modules, quizzes, an animated **Speed Test**, and a **Wi-Fi Analyzer** with real-time signal graphs.
+<a href="https://github.com/mertsenerr/networksecuritytools">
+  <img src="https://img.shields.io/badge/View%20Project-6366f1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<p>
-  <a href="https://github.com/mertsenerr/networksecuritytools">
-    <img 
-      src="https://img.shields.io/badge/Go%20to%20Repository-1f2335?style=for-the-badge&logo=github&logoColor=white" 
-    />
-  </a>
-</p>
+</div>
 
----
-
-### 🧪 Mini Tools & Components
-
-Collection of reusable UI widgets, validators, helpers, and component kits.
-
-<p>
-  <a href="https://github.com/mertsenerr?tab=repositories&q=component" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/GitHub-Component%20Kit-1f2335?style=for-the-badge&logo=github" 
-      alt="component kit"
-    />
-  </a>
-</p>
-
+</div>
 
 ---
 
