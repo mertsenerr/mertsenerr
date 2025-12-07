@@ -53,25 +53,32 @@ My education and projects have helped me build a strong foundation in **web** an
         A real-time reservation system where users can view <b>live table availability</b>, make reservations, 
         and browse the menu. Admin panel includes table layout, reservation approval, and status updates.
       </p>
-      <a href="https://github.com/mertsenerr/atesocakbasi">
+
+      <!-- Clickable Card -->
+      <a href="https://github.com/mertsenerr/atesocakbasi" target="_blank">
         <img 
-          src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=atesocakbasi&theme=tokyonight&hide_border=true" 
-          alt="atesocakbasi repo" />
+          src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=atesocakbasi&theme=tokyonight&hide_border=false&border_radius=10" 
+          alt="atesocakbasi repo"
+          style="border-radius:10px;"
+        />
       </a>
 
   </td>
 
   <td width="50%" valign="top">
 
-   <h3>🎓 Graduation Project — Education Module + Speed Test + Wi-Fi Analyzer</h3>
+   <h3>🎓 Graduation Project — Training Modules + Speed Test + Wi-Fi Analyzer</h3>
       <p>
-        An integrated platform featuring interactive training modules, quizzes, a <b>Speed Test</b> with gauge 
-        animations, and a <b>Wi-Fi Analyzer</b> with live signal graphs and data history.
+        An integrated platform featuring <b>interactive training modules</b>, quizzes, a <b>Speed Test</b> with 
+        animated gauges, and a <b>Wi-Fi Analyzer</b> showing real-time signal strength history.
       </p>
-      <a href="https://github.com/mertsenerr/networksecuritytools">
+
+      <a href="https://github.com/mertsenerr/networksecuritytools" target="_blank">
         <img 
-          src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=networksecuritytools&theme=tokyonight&hide_border=true" 
-          alt="networksecuritytools repo" />
+          src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=networksecuritytools&theme=tokyonight&hide_border=false&border_radius=10" 
+          alt="networksecuritytools repo"
+          style="border-radius:10px;"
+        />
       </a>
 
   </td>
@@ -81,14 +88,16 @@ My education and projects have helped me build a strong foundation in **web** an
     <td width="50%" valign="top">
 
    <h3>🗂️ Portfolio</h3>
-     <p>
-        A modern personal portfolio with sections like About, Projects, and Contact — built with smooth 
-        animations and responsive design.
+      <p>
+        A modern personal portfolio built with smooth animations, responsive layout, and clean component structure.
       </p>
-      <a href="https://github.com/mertsenerr/myportfolio">
+
+      <a href="https://github.com/mertsenerr/myportfolio" target="_blank">
         <img 
-          src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=myportfolio&theme=tokyonight&hide_border=true" 
-          alt="myportfolio repo" />
+          src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=myportfolio&theme=tokyonight&hide_border=false&border_radius=10" 
+          alt="myportfolio repo"
+          style="border-radius:10px;"
+        />
       </a>
 
   </td>
@@ -97,12 +106,16 @@ My education and projects have helped me build a strong foundation in **web** an
 
   <h3>🧪 Mini Tools & Components</h3>
       <p>
-        A collection of UI widgets, reservation tools, validation forms, and reusable component kits.
+        A collection of UI widgets, form validators, reservation helpers, and reusable component kits.
       </p>
-      <a href="https://github.com/mertsenerr?tab=repositories&q=component">
+
+      <!-- Custom badge is clickable now -->
+      <a href="https://github.com/mertsenerr?tab=repositories&q=component" target="_blank">
         <img 
           src="https://img.shields.io/badge/GitHub-Component%20Kit-1f2335?style=for-the-badge&logo=github" 
-          alt="component kit" />
+          alt="component kit"
+          style="border-radius:8px;"
+        />
       </a>
 
   </td>
