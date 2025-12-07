@@ -44,74 +44,101 @@ My education and projects have helped me build a strong foundation in **web** an
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="center" style="margin-top:20px;">
 
-<!-- Card 1 -->
+<!-- CARD TEMPLATE -->
+<!-- Each card uses glassmorphism + neon glow + gradient border -->
+
+<!-- Project 1 -->
 <div style="
-  background: linear-gradient(135deg, #1f2335, #2a2f49);
-  padding: 22px;
-  border-radius: 14px;
+  backdrop-filter: blur(14px);
+  background: rgba(255,255,255,0.06);
+  border-radius: 18px;
+  padding: 25px;
   width: 85%;
-  margin-bottom: 20px;
-  border: 1px solid #2f3651;
-  box-shadow: 0 0 12px rgba(80, 90, 255, 0.15);
+  border: 1px solid rgba(255,255,255,0.15);
+  margin-bottom: 22px;
+  box-shadow: 0 0 18px rgba(99,102,241,0.35);
   text-align: left;
 ">
 
-### 🍽️ Ateş Ocakbaşı — Reservation & Table Management
-A modern real-time reservation system with table status, admin panel, and live availability.
+<h3>🍽️ Ateş Ocakbaşı — Reservation & Table Management</h3>
+
+A real-time reservation system where customers can see **live table availability**, reserve tables, and browse the menu.  
+Admin panel includes table layout, approvals, and status management.
+
+<br/>
 
 <a href="https://github.com/mertsenerr/atesocakbasi">
-  <img src="https://img.shields.io/badge/View%20Project-6366f1?style=for-the-badge&logo=github&logoColor=white" />
+  <img 
+    src="https://img.shields.io/badge/View%20Repository-6366F1?style=for-the-badge&logo=github&logoColor=white"
+  />
 </a>
 
 </div>
 
 
-<!-- Card 2 -->
+<!-- Project 2 -->
 <div style="
-  background: linear-gradient(135deg, #1f2335, #2a2f49);
-  padding: 22px;
-  border-radius: 14px;
+  backdrop-filter: blur(14px);
+  background: rgba(255,255,255,0.06);
+  border-radius: 18px;
+  padding: 25px;
   width: 85%;
-  margin-bottom: 20px;
-  border: 1px solid #2f3651;
-  box-shadow: 0 0 12px rgba(80, 90, 255, 0.15);
+  border: 1px solid rgba(255,255,255,0.15);
+  margin-bottom: 22px;
+  box-shadow: 0 0 18px rgba(99,102,241,0.35);
   text-align: left;
 ">
 
-### 🗂️ Portfolio
-A clean and animated personal portfolio built with modern UI/UX principles.
+<h3>🗂️ Portfolio</h3>
+
+A beautifully animated personal portfolio showcasing modern UI/UX techniques, responsive layout, and smooth transitions.
+
+<br/>
 
 <a href="https://github.com/mertsenerr/myportfolio">
-  <img src="https://img.shields.io/badge/View%20Project-6366f1?style=for-the-badge&logo=github&logoColor=white" />
+  <img 
+    src="https://img.shields.io/badge/View%20Repository-6366F1?style=for-the-badge&logo=github&logoColor=white"
+  />
 </a>
 
 </div>
 
 
-<!-- Card 3 -->
+<!-- Project 3 -->
 <div style="
-  background: linear-gradient(135deg, #1f2335, #2a2f49);
-  padding: 22px;
-  border-radius: 14px;
+  backdrop-filter: blur(14px);
+  background: rgba(255,255,255,0.06);
+  border-radius: 18px;
+  padding: 25px;
   width: 85%;
-  margin-bottom: 20px;
-  border: 1px solid #2f3651;
-  box-shadow: 0 0 12px rgba(80, 90, 255, 0.15);
+  border: 1px solid rgba(255,255,255,0.15);
+  margin-bottom: 22px;
+  box-shadow: 0 0 18px rgba(99,102,241,0.35);
   text-align: left;
 ">
 
-### 🎓 Graduation Project — Education Module + Speed Test + Wi-Fi Analyzer
-Integrated system with Training Modules, Gauge-based SpeedTest, and real-time WiFi Analyzer.
+<h3>🎓 Graduation Project — Education Module + Speed Test + Wi-Fi Analyzer</h3>
+
+A fully integrated platform including  
+✔ Interactive cybersecurity training modules  
+✔ Animated **Speed Test** with gauge UI  
+✔ Live **Wi-Fi Analyzer** with signal graphs  
+✔ Firebase-backed quiz + progress system
+
+<br/>
 
 <a href="https://github.com/mertsenerr/networksecuritytools">
-  <img src="https://img.shields.io/badge/View%20Project-6366f1?style=for-the-badge&logo=github&logoColor=white" />
+  <img 
+    src="https://img.shields.io/badge/View%20Repository-6366F1?style=for-the-badge&logo=github&logoColor=white"
+  />
 </a>
 
 </div>
 
 </div>
+
 
 ---
 
