@@ -108,23 +108,11 @@ My education and projects have helped me build a strong foundation in **web** an
 ## 📈 GitHub Stats
 
 <p align="center">
-
-  <!-- Main GitHub Stats -->
-  <img height="165"
-    src="https://github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-
-  <!-- Streak Stats (Heroku mirror - fully working) -->
-  <img height="165"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mertsenerr&theme=tokyonight&hide_border=true"
-  />
-
-  <!-- Top Languages -->
-  <img height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  />
-
+  <img height="165" src="https://github-readme-stats-git-master-mertsenerrs-projects.vercel.app/api?username=mertsenerr&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-master-mertsenerrs-projects.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mertsenerr&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
