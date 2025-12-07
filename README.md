@@ -53,8 +53,7 @@ My education and projects have helped me build a strong foundation in **web** an
         A real-time reservation system where users can view <b>live table availability</b>, make reservations, 
         and browse the menu. Admin panel includes table layout, reservation approval, and status updates.
       </p>
-
-      <!-- Clickable Card -->
+  <-- Clickable Card -->
       <a href="https://github.com/mertsenerr/atesocakbasi" target="_blank">
         <img 
           src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=atesocakbasi&theme=tokyonight&hide_border=false&border_radius=10" 
@@ -73,13 +72,13 @@ My education and projects have helped me build a strong foundation in **web** an
         animated gauges, and a <b>Wi-Fi Analyzer</b> showing real-time signal strength history.
       </p>
 
-      <a href="https://github.com/mertsenerr/networksecuritytools" target="_blank">
+  <a href="https://github.com/mertsenerr/networksecuritytools" target="_blank">
         <img 
           src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=networksecuritytools&theme=tokyonight&hide_border=false&border_radius=10" 
           alt="networksecuritytools repo"
           style="border-radius:10px;"
         />
-      </a>
+  </a>
 
   </td>
   </tr>
@@ -92,7 +91,7 @@ My education and projects have helped me build a strong foundation in **web** an
         A modern personal portfolio built with smooth animations, responsive layout, and clean component structure.
       </p>
 
-      <a href="https://github.com/mertsenerr/myportfolio" target="_blank">
+  <a href="https://github.com/mertsenerr/myportfolio" target="_blank">
         <img 
           src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=myportfolio&theme=tokyonight&hide_border=false&border_radius=10" 
           alt="myportfolio repo"
@@ -108,8 +107,7 @@ My education and projects have helped me build a strong foundation in **web** an
       <p>
         A collection of UI widgets, form validators, reservation helpers, and reusable component kits.
       </p>
-
-      <!-- Custom badge is clickable now -->
+    <-- Custom badge is clickable now -->
       <a href="https://github.com/mertsenerr?tab=repositories&q=component" target="_blank">
         <img 
           src="https://img.shields.io/badge/GitHub-Component%20Kit-1f2335?style=for-the-badge&logo=github" 
