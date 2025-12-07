@@ -42,26 +42,49 @@ My education and projects have helped me build a strong foundation in **web** an
 
 ---
 
-## ⭐ Featured Projects
+## 🌟 Featured Projects
 
-### 🍽️ Ateş Ocakbaşı — Reservation & Table Management
-A clean real-time reservation system with live table availability, menu browsing, and admin features.
+<table>
+  <tr>
+    <!-- Project 1 -->
+    <td width="50%" style="padding: 15px; vertical-align: top;">
+      <h3>🍽️ Ateş Ocakbaşı</h3>
+      <p>Real-time reservation & table management system with live availability and admin tools.</p>
+      <a href="https://github.com/mertsenerr/atesocakbasi">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=atesocakbasi&theme=transparent&hide_border=true" />
+      </a>
+    </td>
 
-[→ View Repository](https://github.com/mertsenerr/atesocakbasi)
+    <!-- Project 2 -->
+    <td width="50%" style="padding: 15px; vertical-align: top;">
+      <h3>🗂️ Portfolio</h3>
+      <p>A modern animated personal portfolio focused on minimal UI/UX and smooth transitions.</p>
+      <a href="https://github.com/mertsenerr/myportfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=myportfolio&theme=transparent&hide_border=true" />
+      </a>
+    </td>
+  </tr>
 
-### 🗂️ Portfolio
-A smooth and minimal personal portfolio with elegant animations and responsive UI.
+  <tr>
+    <!-- Project 3 -->
+    <td width="50%" style="padding: 15px; vertical-align: top;">
+      <h3>🎓 Graduation Project</h3>
+      <p>Education modules, animated Speed Test gauge UI, Wi-Fi Analyzer & Firebase quiz system.</p>
+      <a href="https://github.com/mertsenerr/networksecuritytools">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=networksecuritytools&theme=transparent&hide_border=true" />
+      </a>
+    </td>
 
-[→ View Repository](https://github.com/mertsenerr/myportfolio)
-
-### 🎓 Graduation Project — Education Module + Speed Test + Wi-Fi Analyzer
-A fully integrated platform including:
-- Cybersecurity training modules  
-- Animated Speed Test gauge  
-- Real-time Wi-Fi Analyzer  
-- Firebase-backed quiz & progress system  
-
-[→ View Repository](https://github.com/mertsenerr/networksecuritytools)
+    <!-- Project 4 -->
+    <td width="50%" style="padding: 15px; vertical-align: top;">
+      <h3>🧩 Mini Tools & Components</h3>
+      <p>A collection of reusable UI widgets, validators, helpers, and component kits.</p>
+      <a href="https://github.com/mertsenerr?tab=repositories&q=component">
+        <img src="https://img.shields.io/badge/GitHub-Component_Kit-1f2335?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
