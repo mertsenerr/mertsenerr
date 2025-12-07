@@ -46,8 +46,6 @@ My education and projects have helped me build a strong foundation in **web** an
 
 <table>
   <tr>
-
-  <-- Project 1 -->
     <td width="50%" style="vertical-align: top; padding: 20px;">
       <h3>🍽️ Ateş Ocakbaşı</h3>
       <p>
@@ -60,15 +58,13 @@ My education and projects have helped me build a strong foundation in **web** an
         />
       </a>
     </td>
-
-  <-- Project 2 -->
     <td width="50%" style="vertical-align: top; padding: 20px;">
       <h3>🗂️ Portfolio</h3>
       <p>
         A beautifully animated personal portfolio showcasing modern UI/UX and smooth transitions.
       </p>
 
-  <a href="https://github.com/mertsenerr/myportfolio">
+   <a href="https://github.com/mertsenerr/myportfolio">
         <img 
           src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"
         />
@@ -78,8 +74,6 @@ My education and projects have helped me build a strong foundation in **web** an
   </tr>
 
   <tr>
-
-  <-- Project 3 -->
     <td width="50%" style="vertical-align: top; padding: 20px;">
       <h3>🎓 Graduation Project</h3>
       <p>
@@ -92,8 +86,6 @@ My education and projects have helped me build a strong foundation in **web** an
         />
       </a>
     </td>
-
-   <-- Project 4 -->
     <td width="50%" style="vertical-align: top; padding: 20px;">
       <h3>🧩 Component Kit</h3>
       <p>
