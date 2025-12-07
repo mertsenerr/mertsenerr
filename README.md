@@ -104,6 +104,19 @@ My education and projects have helped me build a strong foundation in **web** an
 
 ---
 
+## 📈 GitHub Stats 
+
+<div align="center"> 
+  
+  <!-- Stats --> 
+  <img src="https://mertsenerr-github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170" alt="GitHub Stats" />
+  <!-- Languages --> 
+  <img src="https://mertsenerr-github-readme-stats.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170" alt="Top Languages" /> 
+  <!-- Trophy --> 
+  <img src="https://github-profile-trophy.vercel.app/?username=mertsenerr&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10" alt="GitHub Trophies" /> 
+
+</div>
+
 ## 🧱 Current Stack Overview
 
 <p align="center">
@@ -134,6 +147,16 @@ My education and projects have helped me build a strong foundation in **web** an
     height="150"
   />
 </div>
+
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=mertsenerr&theme=tokyonight&hide_border=true&date_format=M%20j" 
+    alt="GitHub Streak"
+  />
+</p>
+
 
 
 ---
