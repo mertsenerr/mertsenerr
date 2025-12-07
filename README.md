@@ -30,7 +30,7 @@ My education and projects have helped me build a strong foundation in **web** an
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,vercel,nodejs,express,firebase,redis,postgres,mongodb,git,github,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,vercel,nodejs,express,firebase,mongodb,git,github&theme=dark" />
 </p>
 
 <p align="center">
