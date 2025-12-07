@@ -49,14 +49,10 @@ A clean real-time reservation system with live table availability, menu browsing
 
 [→ View Repository](https://github.com/mertsenerr/atesocakbasi)
 
----
-
 ### 🗂️ Portfolio
 A smooth and minimal personal portfolio with elegant animations and responsive UI.
 
 [→ View Repository](https://github.com/mertsenerr/myportfolio)
-
----
 
 ### 🎓 Graduation Project — Education Module + Speed Test + Wi-Fi Analyzer
 A fully integrated platform including:
@@ -66,10 +62,6 @@ A fully integrated platform including:
 - Firebase-backed quiz & progress system  
 
 [→ View Repository](https://github.com/mertsenerr/networksecuritytools)
-
----
-
-
 
 ---
 
