@@ -54,8 +54,7 @@ Admin panel includes table layout, reservation approval, and status updates.
 <p>
   <a href="https://github.com/mertsenerr/atesocakbasi" target="_blank">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=atesocakbasi&theme=tokyonight&hide_border=false&border_radius=10" 
-      alt="atesocakbasi repo"
+      src="https://gh-readme-stats-e2vz.vercel.app/api/pin/?username=mertsenerr&repo=atesocakbasi&theme=tokyonight&hide_border=false&border_radius=10"
     />
   </a>
 </p>
@@ -69,8 +68,7 @@ A modern personal portfolio built with smooth animations, responsive layout, and
 <p>
   <a href="https://github.com/mertsenerr/myportfolio" target="_blank">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=myportfolio&theme=tokyonight&hide_border=false&border_radius=10" 
-      alt="myportfolio repo"
+      src="https://gh-readme-stats-e2vz.vercel.app/api/pin/?username=mertsenerr&repo=myportfolio&theme=tokyonight&hide_border=false&border_radius=10"
     />
   </a>
 </p>
@@ -84,8 +82,7 @@ An integrated platform featuring interactive training modules, quizzes, an anima
 <p>
   <a href="https://github.com/mertsenerr/networksecuritytools" target="_blank">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=networksecuritytools&theme=tokyonight&hide_border=false&border_radius=10" 
-      alt="networksecuritytools repo"
+      src="https://gh-readme-stats-e2vz.vercel.app/api/pin/?username=mertsenerr&repo=networksecuritytools&theme=tokyonight&hide_border=false&border_radius=10"
     />
   </a>
 </p>
