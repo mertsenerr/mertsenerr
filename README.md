@@ -46,38 +46,70 @@ My education and projects have helped me build a strong foundation in **web** an
 
 <table>
   <tr>
-    <td width="50%" style="padding: 15px; vertical-align: top;">
+
+  <-- Project 1 -->
+    <td width="50%" style="vertical-align: top; padding: 20px;">
       <h3>🍽️ Ateş Ocakbaşı</h3>
-      <p>Real-time reservation & table management system with live availability and admin tools.</p>
-      <a href="https://github.com/mertsenerr/atesocakbasi">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=atesocakbasi&theme=transparent&hide_border=true" />
+      <p>
+        Real-time reservation & table management system with live availability and admin tools.
+      </p>
+
+  <a href="https://github.com/mertsenerr/atesocakbasi">
+        <img 
+          src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"
+        />
       </a>
     </td>
-  <td width="50%" style="padding: 15px; vertical-align: top;">
+
+  <-- Project 2 -->
+    <td width="50%" style="vertical-align: top; padding: 20px;">
       <h3>🗂️ Portfolio</h3>
-      <p>A modern animated personal portfolio focused on minimal UI/UX and smooth transitions.</p>
-      <a href="https://github.com/mertsenerr/myportfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=myportfolio&theme=transparent&hide_border=true" />
+      <p>
+        A beautifully animated personal portfolio showcasing modern UI/UX and smooth transitions.
+      </p>
+
+  <a href="https://github.com/mertsenerr/myportfolio">
+        <img 
+          src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"
+        />
       </a>
     </td>
+
   </tr>
+
   <tr>
-    <td width="50%" style="padding: 15px; vertical-align: top;">
+
+  <-- Project 3 -->
+    <td width="50%" style="vertical-align: top; padding: 20px;">
       <h3>🎓 Graduation Project</h3>
-      <p>Education modules, animated Speed Test gauge UI, Wi-Fi Analyzer & Firebase quiz system.</p>
-      <a href="https://github.com/mertsenerr/networksecuritytools">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=networksecuritytools&theme=transparent&hide_border=true" />
+      <p>
+        Education modules, animated speed test, Wi-Fi analyzer & Firebase-backed quizzes.
+      </p>
+
+  <a href="https://github.com/mertsenerr/networksecuritytools">
+        <img 
+          src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"
+        />
       </a>
     </td>
-  <td width="50%" style="padding: 15px; vertical-align: top;">
-      <h3>🧩 Mini Tools & Components</h3>
-      <p>A collection of reusable UI widgets, validators, helpers, and component kits.</p>
-      <a href="https://github.com/mertsenerr?tab=repositories&q=component">
-        <img src="https://img.shields.io/badge/GitHub-Component_Kit-1f2335?style=for-the-badge" />
+
+   <-- Project 4 -->
+    <td width="50%" style="vertical-align: top; padding: 20px;">
+      <h3>🧩 Component Kit</h3>
+      <p>
+        A collection of reusable UI widgets, validators, helpers, and component kits.
+      </p>
+
+   <a href="https://github.com/mertsenerr?tab=repositories&q=component">
+        <img 
+          src="https://img.shields.io/badge/Component%20Kit-6C63FF?style=for-the-badge&logo=github&logoColor=white"
+        />
       </a>
     </td>
+
   </tr>
 </table>
+
 
 ---
 
