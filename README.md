@@ -44,100 +44,46 @@ My education and projects have helped me build a strong foundation in **web** an
 
 ## 🚀 Featured Projects
 
-<div align="center" style="margin-top:20px;">
+---
 
-<!-- CARD TEMPLATE -->
-<!-- Each card uses glassmorphism + neon glow + gradient border -->
-
-<!-- Project 1 -->
-<div style="
-  backdrop-filter: blur(14px);
-  background: rgba(255,255,255,0.06);
-  border-radius: 18px;
-  padding: 25px;
-  width: 85%;
-  border: 1px solid rgba(255,255,255,0.15);
-  margin-bottom: 22px;
-  box-shadow: 0 0 18px rgba(99,102,241,0.35);
-  text-align: left;
-">
-
-<h3>🍽️ Ateş Ocakbaşı — Reservation & Table Management</h3>
-
+### 🍽️ **Ateş Ocakbaşı — Reservation & Table Management**
 A real-time reservation system where customers can see **live table availability**, reserve tables, and browse the menu.  
 Admin panel includes table layout, approvals, and status management.
 
-<br/>
+<p align="center">
+  <a href="https://github.com/mertsenerr/atesocakbasi">
+    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-5865F2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://github.com/mertsenerr/atesocakbasi">
-  <img 
-    src="https://img.shields.io/badge/View%20Repository-6366F1?style=for-the-badge&logo=github&logoColor=white"
-  />
-</a>
+---
 
-</div>
-
-
-<!-- Project 2 -->
-<div style="
-  backdrop-filter: blur(14px);
-  background: rgba(255,255,255,0.06);
-  border-radius: 18px;
-  padding: 25px;
-  width: 85%;
-  border: 1px solid rgba(255,255,255,0.15);
-  margin-bottom: 22px;
-  box-shadow: 0 0 18px rgba(99,102,241,0.35);
-  text-align: left;
-">
-
-<h3>🗂️ Portfolio</h3>
-
+### 🗂️ **Portfolio**
 A beautifully animated personal portfolio showcasing modern UI/UX techniques, responsive layout, and smooth transitions.
 
-<br/>
+<p align="center">
+  <a href="https://github.com/mertsenerr/myportfolio">
+    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-5865F2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://github.com/mertsenerr/myportfolio">
-  <img 
-    src="https://img.shields.io/badge/View%20Repository-6366F1?style=for-the-badge&logo=github&logoColor=white"
-  />
-</a>
+---
 
-</div>
+### 🎓 **Graduation Project — Education Module + Speed Test + Wi-Fi Analyzer**
+A fully integrated platform including:
 
-
-<!-- Project 3 -->
-<div style="
-  backdrop-filter: blur(14px);
-  background: rgba(255,255,255,0.06);
-  border-radius: 18px;
-  padding: 25px;
-  width: 85%;
-  border: 1px solid rgba(255,255,255,0.15);
-  margin-bottom: 22px;
-  box-shadow: 0 0 18px rgba(99,102,241,0.35);
-  text-align: left;
-">
-
-<h3>🎓 Graduation Project — Education Module + Speed Test + Wi-Fi Analyzer</h3>
-
-A fully integrated platform including  
 ✔ Interactive cybersecurity training modules  
 ✔ Animated **Speed Test** with gauge UI  
 ✔ Live **Wi-Fi Analyzer** with signal graphs  
-✔ Firebase-backed quiz + progress system
+✔ Firebase-backed quiz + progress system  
 
-<br/>
+<p align="center">
+  <a href="https://github.com/mertsenerr/networksecuritytools">
+    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-5865F2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://github.com/mertsenerr/networksecuritytools">
-  <img 
-    src="https://img.shields.io/badge/View%20Repository-6366F1?style=for-the-badge&logo=github&logoColor=white"
-  />
-</a>
-
-</div>
-
-</div>
+---
 
 
 ---
