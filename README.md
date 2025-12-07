@@ -42,48 +42,33 @@ My education and projects have helped me build a strong foundation in **web** an
 
 ---
 
-## 🚀 Featured Projects
+## ⭐ Featured Projects
+
+### 🍽️ Ateş Ocakbaşı — Reservation & Table Management
+A clean real-time reservation system with live table availability, menu browsing, and admin features.
+
+[→ View Repository](https://github.com/mertsenerr/atesocakbasi)
 
 ---
 
-### 🍽️ **Ateş Ocakbaşı — Reservation & Table Management**
-A real-time reservation system where customers can see **live table availability**, reserve tables, and browse the menu.  
-Admin panel includes table layout, approvals, and status management.
+### 🗂️ Portfolio
+A smooth and minimal personal portfolio with elegant animations and responsive UI.
 
-<p align="center">
-  <a href="https://github.com/mertsenerr/atesocakbasi">
-    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-5865F2?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[→ View Repository](https://github.com/mertsenerr/myportfolio)
 
 ---
 
-### 🗂️ **Portfolio**
-A beautifully animated personal portfolio showcasing modern UI/UX techniques, responsive layout, and smooth transitions.
-
-<p align="center">
-  <a href="https://github.com/mertsenerr/myportfolio">
-    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-5865F2?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🎓 **Graduation Project — Education Module + Speed Test + Wi-Fi Analyzer**
+### 🎓 Graduation Project — Education Module + Speed Test + Wi-Fi Analyzer
 A fully integrated platform including:
+- Cybersecurity training modules  
+- Animated Speed Test gauge  
+- Real-time Wi-Fi Analyzer  
+- Firebase-backed quiz & progress system  
 
-✔ Interactive cybersecurity training modules  
-✔ Animated **Speed Test** with gauge UI  
-✔ Live **Wi-Fi Analyzer** with signal graphs  
-✔ Firebase-backed quiz + progress system  
-
-<p align="center">
-  <a href="https://github.com/mertsenerr/networksecuritytools">
-    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-5865F2?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[→ View Repository](https://github.com/mertsenerr/networksecuritytools)
 
 ---
+
 
 
 ---
