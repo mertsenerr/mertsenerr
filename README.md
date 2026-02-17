@@ -124,10 +124,9 @@ My education and projects have helped me build a strong foundation in **web** an
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mertsenerr&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=7&v=2)
+![Trophies](https://github-trophies.vercel.app/?username=mertsenerr&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=7&v=3)
 
 </div>
-
 
 
 ## 🧱 Current Stack Overview
