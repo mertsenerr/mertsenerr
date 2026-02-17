@@ -54,11 +54,8 @@ My education and projects have helped me build a strong foundation in **web** an
       <p>
         Real-time reservation & table management system with live availability and admin tools.
       </p>
-
-  <a href="https://github.com/mertsenerr/atesocakbasi">
-        <img 
-          src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"
-        />
+      <a href="https://github.com/mertsenerr/atesocakbasi">
+        <img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td width="50%" style="vertical-align: top; padding: 20px;">
@@ -66,42 +63,50 @@ My education and projects have helped me build a strong foundation in **web** an
       <p>
         A beautifully animated personal portfolio showcasing modern UI/UX and smooth transitions.
       </p>
-
-   <a href="https://github.com/mertsenerr/myportfolio">
-        <img 
-          src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"
-        />
+      <a href="https://github.com/mertsenerr/myportfolio">
+        <img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
-
   </tr>
-
   <tr>
     <td width="50%" style="vertical-align: top; padding: 20px;">
-      <h3>🎓 Graduation Project</h3>
+      <h3>🎓 Network Security Tools</h3>
       <p>
-        Education modules, animated speed test, Wi-Fi analyzer & Firebase-backed quizzes.
+        Graduation project including Wi-Fi analyzer, animated speed test, quiz modules and Firebase integration.
       </p>
-
-  <a href="https://github.com/mertsenerr/networksecuritytools">
-        <img 
-          src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"
-        />
+      <a href="https://github.com/mertsenerr/networksecuritytools">
+        <img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td width="50%" style="vertical-align: top; padding: 20px;">
-      <h3>🧩 Component Kit</h3>
+      <h3>🔥 Damnation Web</h3>
       <p>
-        A collection of reusable UI widgets, validators, helpers, and component kits.
+        Web-based companion platform for the Damnation universe featuring immersive UI and dynamic interactions.
       </p>
-
-   <a href="https://github.com/mertsenerr?tab=repositories&q=component">
-        <img 
-          src="https://img.shields.io/badge/Component%20Kit-6C63FF?style=for-the-badge&logo=github&logoColor=white"
-        />
+      <a href="https://github.com/mertsenerr/damnationweb">
+        <img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
-
+  </tr>
+  <tr>
+    <td width="50%" style="vertical-align: top; padding: 20px;">
+      <h3>🎮 Damnation</h3>
+      <p>
+        A narrative-driven Unity game project with custom level design, storyline structure and interactive gameplay mechanics.
+      </p>
+      <a href="https://github.com/mertsenerr/damnation">
+        <img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" style="vertical-align: top; padding: 20px;">
+      <h3>📢 ADS Platform</h3>
+      <p>
+        Advertisement management and campaign tracking system with real-time analytics and scalable backend structure.
+      </p>
+      <a href="https://github.com/mertsenerr/ads">
+        <img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
   </tr>
 </table>
 
