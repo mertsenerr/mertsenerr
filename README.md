@@ -109,27 +109,25 @@ My education and projects have helped me build a strong foundation in **web** an
 
 <div align="center">
 
-  <!-- GitHub Stats -->
   <img 
     src="https://mertsenerr-github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" 
     height="170" 
   />
-
-  <!-- Top Languages -->
   <img 
     src="https://mertsenerr-github-readme-stats.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" 
     height="170" 
   />
 
-  <br/><br/>
+</div>
 
-  <!-- Trophies -->
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=mertsenerr&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=7&v=1"
-    alt="trophies"
-  />
+<br/>
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=mertsenerr&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=7&v=2)
 
 </div>
+
 
 
 ## 🧱 Current Stack Overview
