@@ -30,13 +30,14 @@ My education and projects have helped me build a strong foundation in **web** an
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,vercel,nodejs,express,firebase,mongodb,git,github&theme=dark" />
+  <img src="https://img.shields.io/badge/Stack-Full--Stack%20Developer-111827?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-1f2335?style=for-the-badge&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-1f2335?style=for-the-badge&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Realtime-Firebase%20RTDB%20%7C%20WebSockets-1f2335?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Angular%20%7C%20Tailwind-1f2335?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20.NET%20Core-1f2335?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Language-TypeScript%20%7C%20C%23-1f2335?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20Firebase-1f2335?style=for-the-badge&labelColor=111827" />
   <img src="https://img.shields.io/badge/Deploy-Vercel%20%7C%20Docker-1f2335?style=for-the-badge&labelColor=111827" />
 </p>
 
