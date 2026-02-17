@@ -106,16 +106,12 @@ My education and projects have helped me build a strong foundation in **web** an
 
 ## 📈 GitHub Stats 
 
-<div align="center"> 
-  
-  <!-- Stats --> 
-  <img src="https://mertsenerr-github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170" alt="GitHub Stats" />
-  
-  <!-- Languages --> 
-  <img src="https://mertsenerr-github-readme-stats.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170" alt="Top Languages" />
-  
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
 </div>
+
 
 ## 🧱 Current Stack Overview
 
