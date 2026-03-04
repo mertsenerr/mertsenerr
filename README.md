@@ -24,6 +24,7 @@ My education and projects have helped me build a strong foundation in **web** an
 
 🌍 **Languages**
 - English: Fluent (B2–C1)
+- Spanish: Beginner (A1–A2)
 
 ---
 
