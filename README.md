@@ -10,7 +10,7 @@
 
 ## 📌 About Me
 
-Hi! I’m **Mert Şener** (24), a passionate **Full Stack Developer** with both academic and hands-on experience in building modern, scalable applications.  
+Hi! I’m **Mert Şener** (25), a passionate **Full Stack Developer** with both academic and hands-on experience in building modern, scalable applications.  
 
 My education and projects have helped me build a strong foundation in **web** and **mobile** development.
 
