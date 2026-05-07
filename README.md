@@ -10,7 +10,7 @@
 
 # 📌 About Me
 
-Hi! I’m **Mert Şener**, a passionate **Full Stack Developer** focused on building modern, scalable, and performance-oriented web applications.
+Hi! I'm **Mert Şener**, a passionate **Full Stack Developer** focused on building modern, scalable, and performance-oriented web applications.
 
 I enjoy creating visually polished interfaces, real-time systems, and seamless user experiences across both frontend and backend architectures.
 
@@ -77,131 +77,40 @@ Worked on:
 
 <h3 align="center">FRONTEND</h3>
 
-<table align="center">
-<tr>
-
-<td align="center" width="120" height="120">
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="52"/><br/><br/>
-<b>JavaScript</b>
-</td>
-
-<td align="center" width="120" height="120">
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="52"/><br/><br/>
-<b>TypeScript</b>
-</td>
-
-<td align="center" width="120" height="120">
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="52"/><br/><br/>
-<b>React</b>
-</td>
-
-<td align="center" width="120" height="120">
-<img src="https://cdn.simpleicons.org/angular/DD0031" width="52"/><br/><br/>
-<b>Angular</b>
-</td>
-
-<td align="center" width="120" height="120">
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="52"/><br/><br/>
-<b>Tailwind CSS</b>
-</td>
-
-<td align="center" width="120" height="120">
-<img src="https://cdn.simpleicons.org/sass/CC6699" width="52"/><br/><br/>
-<b>SCSS</b>
-</td>
-
-<td align="center" width="120" height="120">
-<img src="https://cdn.simpleicons.org/css/1572B6" width="52"/><br/><br/>
-<b>CSS3</b>
-</td>
-
-<td align="center" width="120" height="120">
-<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="52"/><br/><br/>
-<b>Next.js</b>
-</td>
-
-</tr>
-</table>
-
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
 
 <h3 align="center">BACKEND</h3>
 
-<table align="center">
-<tr>
-
-<td align="center" width="140" height="120">
-<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="52"/><br/><br/>
-<b>Node.js</b>
-</td>
-
-<td align="center" width="140" height="120">
-<img src="https://cdn.simpleicons.org/express/FFFFFF" width="52"/><br/><br/>
-<b>Express</b>
-</td>
-
-<td align="center" width="140" height="120">
-<img src="https://cdn.simpleicons.org/dotnet/512BD4" width="52"/><br/><br/>
-<b>.NET Core</b>
-</td>
-
-<td align="center" width="140" height="120">
-<img src="https://cdn.simpleicons.org/firebase/FFCA28" width="52"/><br/><br/>
-<b>Firebase</b>
-</td>
-
-<td align="center" width="140" height="120">
-<img src="https://cdn.simpleicons.org/mongodb/47A248" width="52"/><br/><br/>
-<b>MongoDB</b>
-</td>
-
-</tr>
-</table>
-
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 <h3 align="center">TOOLS & SERVICES</h3>
 
-<table align="center">
-<tr>
-
-<td align="center" width="120" height="120">
-<img src="https://cdn.simpleicons.org/git/F05032" width="52"/><br/><br/>
-<b>Git</b>
-</td>
-
-<td align="center" width="120" height="120">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="52"/><br/><br/>
-<b>GitHub</b>
-</td>
-
-<td align="center" width="120" height="120">
-<img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="52"/><br/><br/>
-<b>Vercel</b>
-</td>
-
-<td align="center" width="120" height="120">
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="52"/><br/><br/>
-<b>Docker</b>
-</td>
-
-<td align="center" width="120" height="120">
-<img src="https://cdn.simpleicons.org/cloudflare/F38020" width="52"/><br/><br/>
-<b>Cloudflare</b>
-</td>
-
-<td align="center" width="120" height="120">
-<img src="https://cdn.simpleicons.org/render/46E3B7" width="52"/><br/><br/>
-<b>Render</b>
-</td>
-
-<td align="center" width="120" height="120">
-<img src="https://cdn.simpleicons.org/resend/FFFFFF" width="52"/><br/><br/>
-<b>Resend</b>
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
@@ -304,12 +213,12 @@ Advertisement management and analytics platform with scalable backend architectu
 <div align="center">
 
 <img 
-src="https://mertsenerr-github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" 
+src="https://github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" 
 height="170"
 />
 
 <img 
-src="https://mertsenerr-github-readme-stats.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" 
 height="170"
 />
 
@@ -319,7 +228,15 @@ height="170"
 
 <div align="center">
 
-![Trophies](https://github-trophies.vercel.app/?username=mertsenerr&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=7&v=3)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mertsenerr&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mertsenerr&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=7" />
 
 </div>
 
@@ -369,19 +286,17 @@ height="150"
 ✨ Feel free to reach out for collaborations, freelance work, or just to say hi!
 </p>
 
-<div align="center">
-
-<a href="mailto:merrtsn20@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="42"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/mertsener">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="mailto:merrtsn20@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/mertsener">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mertsenerr">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <br/>
 
