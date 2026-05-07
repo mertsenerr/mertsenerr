@@ -1,305 +1,339 @@
+<!--
+  ╔══════════════════════════════════════════════════════════╗
+  ║  MERT ŞENER · FULL STACK DEVELOPER                       ║
+  ║  Linear / Vercel inspired — Dark monochrome theme        ║
+  ╚══════════════════════════════════════════════════════════╝
+-->
+
+<!-- ═══════════════ HERO ═══════════════ -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=9aa4ff&text=Mert%20Şener&height=120&fontAlign=50&fontSize=56&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=85" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Mert%20Şener&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2500&pause=1000&color=9aa4ff&center=true&vCenter=true&width=640&lines=Modern+Web+Interfaces;Real-Time+Reservation+Systems;Performance+%26+Usability+Focused+Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=E6EDF3&center=true&vCenter=true&width=720&lines=Crafting+modern+web+interfaces.;Building+real-time+reservation+systems.;Obsessed+with+performance+%26+detail." />
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/mertsenerr"><img src="https://img.shields.io/badge/-Available%20for%20work-0D1117?style=flat-square&labelColor=0D1117&color=E6EDF3" /></a>
+  <img src="https://img.shields.io/badge/-İzmir%2C%20TR-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" />
+  <img src="https://komarev.com/ghpvc/?username=mertsenerr&label=PROFILE+VIEWS&color=0d1117&style=flat-square&labelColor=0D1117" />
+</p>
 
-# 📌 About Me
+<br/>
 
-Hi! I'm **Mert Şener**, a passionate **Full Stack Developer** focused on building modern, scalable, and performance-oriented web applications.
+<!-- ═══════════════ QUOTE ═══════════════ -->
 
-I enjoy creating visually polished interfaces, real-time systems, and seamless user experiences across both frontend and backend architectures.
+<p align="center">
+  <i>"Simplicity is the ultimate sophistication."</i>
+  <br/>
+  <sub>— Leonardo da Vinci</sub>
+</p>
 
----
+<br/>
 
-## 🎓 Education
+<!-- ═══════════════ DIVIDER ═══════════════ -->
 
-- **Maltepe University**, Istanbul  
-  Associate Degree in Computer Programming  
-  *(50% Scholarship — GPA: 3.53)*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=21262D&height=1" width="100%" />
+</p>
 
-- **Yaşar University**, Izmir  
-  Computer Engineering  
-  *(25% Scholarship)*
+<br/>
 
----
+<!-- ═══════════════ ABOUT ═══════════════ -->
 
-## 💼 Experience
+<h3 align="left">
+  <img src="https://img.shields.io/badge/-01-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" />
+  &nbsp;About
+</h3>
 
-### Frontend Intern — Pardon Mobile Technologies A.Ş.
+<p align="left">
+&nbsp;&nbsp;&nbsp;Hi, I'm <b>Mert</b> — a Full Stack Developer building modern, scalable, and performance-driven web applications.<br/>
+&nbsp;&nbsp;&nbsp;I focus on <b>polished interfaces</b>, <b>real-time systems</b>, and <b>seamless user experiences</b> across the entire stack.
+</p>
 
-Worked on:
-- Modern responsive interfaces
-- Frontend optimization
-- UI/UX improvements
-- Component-based development
+<br/>
 
----
-
-# 🌍 Languages
-
-<table>
-<tr>
-<td width="70" align="center">
-<img src="https://flagcdn.com/w80/tr.png" width="42"/>
-</td>
-<td>
-<b>Turkish</b> — Native (Anadil)
-</td>
-</tr>
-
-<tr>
-<td width="70" align="center">
-<img src="https://flagcdn.com/w80/gb.png" width="42"/>
-</td>
-<td>
-<b>English</b> — Fluent (B2–C1)
-</td>
-</tr>
-
-<tr>
-<td width="70" align="center">
-<img src="https://flagcdn.com/w80/es.png" width="42"/>
-</td>
-<td>
-<b>Spanish</b> — Beginner (A1–A2)
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="left" width="50%">
+      <sub><b>EDUCATION</b></sub><br/><br/>
+      <b>Yaşar University</b> · İzmir<br/>
+      <sub>Computer Engineering · 25% Scholarship</sub><br/><br/>
+      <b>Maltepe University</b> · İstanbul<br/>
+      <sub>Computer Programming · 50% Scholarship · GPA 3.53</sub>
+    </td>
+    <td align="left" width="50%">
+      <sub><b>EXPERIENCE</b></sub><br/><br/>
+      <b>Pardon Mobile Technologies A.Ş.</b><br/>
+      <sub>Frontend Intern</sub><br/><br/>
+      <sub>· Modern responsive interfaces</sub><br/>
+      <sub>· Frontend optimization & UI/UX</sub><br/>
+      <sub>· Component-based development</sub>
+    </td>
+  </tr>
 </table>
 
----
+<br/>
 
-# 🧰 Tech Stack
+<!-- ═══════════════ LANGUAGES ═══════════════ -->
 
-<h3 align="center">FRONTEND</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
-<h3 align="center">BACKEND</h3>
+<h3 align="left">
+  <img src="https://img.shields.io/badge/-02-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" />
+  &nbsp;Languages
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Türkçe-Native-0D1117?style=for-the-badge&labelColor=161B22&color=E6EDF3" />
+  <img src="https://img.shields.io/badge/English-B2--C1-0D1117?style=for-the-badge&labelColor=161B22&color=E6EDF3" />
+  <img src="https://img.shields.io/badge/Español-A1--A2-0D1117?style=for-the-badge&labelColor=161B22&color=8B949E" />
 </p>
 
-<h3 align="center">TOOLS & SERVICES</h3>
+<br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=21262D&height=1" width="100%" />
 </p>
 
----
+<br/>
 
-# 🌟 Featured Projects
+<!-- ═══════════════ TECH STACK ═══════════════ -->
 
-<table>
-<tr>
+<h3 align="left">
+  <img src="https://img.shields.io/badge/-03-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" />
+  &nbsp;Tech Stack
+</h3>
 
-<td width="50%" valign="top">
+<br/>
 
-### 🍽️ Ateş Ocakbaşı
+<p align="center"><sub><b>F R O N T E N D</b></sub></p>
 
-Real-time reservation and table management system featuring live availability tracking and admin controls.
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=E6EDF3&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=E6EDF3&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=E6EDF3&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=E6EDF3&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=E6EDF3&labelColor=161B22" />
+  <br/>
+  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=E6EDF3&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/SCSS-0D1117?style=for-the-badge&logo=sass&logoColor=E6EDF3&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=E6EDF3&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E6EDF3&labelColor=161B22" />
+</p>
 
-<a href="https://github.com/mertsenerr/atesocakbasi">
-<img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/>
 
-</td>
+<p align="center"><sub><b>B A C K E N D</b></sub></p>
 
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=E6EDF3&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=E6EDF3&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/.NET%20Core-0D1117?style=for-the-badge&logo=dotnet&logoColor=E6EDF3&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=E6EDF3&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=E6EDF3&labelColor=161B22" />
+</p>
 
-### 🗂️ Portfolio
+<br/>
 
-Animated personal portfolio focused on modern UI/UX, smooth transitions, and responsive experiences.
+<p align="center"><sub><b>T O O L S &nbsp;&middot;&nbsp; S E R V I C E S</b></sub></p>
 
-<a href="https://github.com/mertsenerr/myportfolio">
-<img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E6EDF3&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=E6EDF3&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=E6EDF3&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=E6EDF3&labelColor=161B22" />
+  <br/>
+  <img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=E6EDF3&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Resend-0D1117?style=for-the-badge&logo=resend&logoColor=E6EDF3&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=E6EDF3&labelColor=161B22" />
+</p>
 
-</td>
+<br/>
 
-</tr>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=21262D&height=1" width="100%" />
+</p>
 
-<tr>
+<br/>
 
-<td width="50%" valign="top">
+<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
 
-### 🎓 Network Security Tools
+<h3 align="left">
+  <img src="https://img.shields.io/badge/-04-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" />
+  &nbsp;Selected Work
+</h3>
 
-Graduation project including:
-- Wi-Fi analyzer
-- Speed test system
-- Quiz modules
-- Firebase integration
+<br/>
 
-<a href="https://github.com/mertsenerr/networksecuritytools">
-<img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔥 Damnation Web
-
-Immersive companion platform for the Damnation universe featuring dynamic interfaces and interactive systems.
-
-<a href="https://github.com/mertsenerr/damnationweb">
-<img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎮 Damnation
-
-Narrative-driven Unity game project with custom level design and gameplay mechanics.
-
-<a href="https://github.com/mertsenerr/damnation">
-<img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📢 ADS Platform
-
-Advertisement management and analytics platform with scalable backend architecture.
-
-<a href="https://github.com/mertsenerr/ads">
-<img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <sub><b>01 · RESERVATION SYSTEM</b></sub>
+      <h3>Ateş Ocakbaşı &nbsp;<sup><sub>↗</sub></sup></h3>
+      <sub>Real-time reservation & table management with live availability tracking and admin controls.</sub><br/><br/>
+      <a href="https://github.com/mertsenerr/atesocakbasi">
+        <img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=161B22" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>02 · PERSONAL WEBSITE</b></sub>
+      <h3>Portfolio &nbsp;<sup><sub>↗</sub></sup></h3>
+      <sub>Animated personal portfolio focused on modern UI/UX, smooth transitions, and responsive design.</sub><br/><br/>
+      <a href="https://github.com/mertsenerr/myportfolio">
+        <img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=161B22" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><b>03 · GRADUATION PROJECT</b></sub>
+      <h3>Network Security Tools &nbsp;<sup><sub>↗</sub></sup></h3>
+      <sub>Wi-Fi analyzer, speed test system, quiz modules, and Firebase integration in one platform.</sub><br/><br/>
+      <a href="https://github.com/mertsenerr/networksecuritytools">
+        <img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=161B22" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>04 · GAME COMPANION</b></sub>
+      <h3>Damnation Web &nbsp;<sup><sub>↗</sub></sup></h3>
+      <sub>Immersive companion platform for the Damnation universe with dynamic interfaces.</sub><br/><br/>
+      <a href="https://github.com/mertsenerr/damnationweb">
+        <img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=161B22" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><b>05 · UNITY GAME</b></sub>
+      <h3>Damnation &nbsp;<sup><sub>↗</sub></sup></h3>
+      <sub>Narrative-driven Unity game project with custom level design and gameplay mechanics.</sub><br/><br/>
+      <a href="https://github.com/mertsenerr/damnation">
+        <img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=161B22" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>06 · ANALYTICS PLATFORM</b></sub>
+      <h3>ADS Platform &nbsp;<sup><sub>↗</sub></sup></h3>
+      <sub>Advertisement management and analytics platform with scalable backend architecture.</sub><br/><br/>
+      <a href="https://github.com/mertsenerr/ads">
+        <img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=161B22" />
+      </a>
+    </td>
+  </tr>
 </table>
 
----
+<br/>
 
-# 📈 GitHub Stats
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=21262D&height=1" width="100%" />
+</p>
+
+<br/>
+
+<!-- ═══════════════ STATS ═══════════════ -->
+
+<h3 align="left">
+  <img src="https://img.shields.io/badge/-05-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" />
+  &nbsp;Activity
+</h3>
+
+<br/>
 
 <div align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" 
-height="170"
-/>
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" 
-height="170"
-/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=E6EDF3&icon_color=E6EDF3&text_color=8B949E&bg_color=0D1117&ring_color=E6EDF3" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&hide_border=true&langs_count=8&title_color=E6EDF3&text_color=8B949E&bg_color=0D1117" height="170"/>
 </div>
 
 <br/>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mertsenerr&hide_border=true&background=0D1117&stroke=21262D&ring=E6EDF3&fire=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&stroke_width=1" height="170"/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mertsenerr&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+<br/>
 
+<!-- ═══════════════ SNAKE GRAPH ═══════════════ -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mertsenerr/mertsenerr/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mertsenerr/mertsenerr/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation eating contributions" src="https://raw.githubusercontent.com/mertsenerr/mertsenerr/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mertsenerr&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=7" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=mertsenerr&theme=nord_bright&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7" />
 </div>
 
----
-
-# 🧱 Current Stack Overview
+<br/>
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mertsenerr&theme=tokyonight" 
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=21262D&height=1" width="100%" />
 </p>
 
-<div align="center">
+<br/>
 
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mertsenerr&theme=tokyonight" 
-height="150"
-/>
+<!-- ═══════════════ NOW PLAYING ═══════════════ -->
 
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mertsenerr&theme=tokyonight" 
-height="150"
-/>
+<h3 align="left">
+  <img src="https://img.shields.io/badge/-06-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" />
+  &nbsp;Currently Playing
+</h3>
 
-</div>
-
-<div align="center">
-
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mertsenerr&theme=tokyonight" 
-height="150"
-/>
-
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mertsenerr&theme=tokyonight" 
-height="150"
-/>
-
-</div>
-
----
-
-# 📬 Contact
+<br/>
 
 <p align="center">
-✨ Feel free to reach out for collaborations, freelance work, or just to say hi!
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=e6edf3&bar_color_cover=true" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=21262D&height=1" width="100%" />
+</p>
+
+<br/>
+
+<!-- ═══════════════ CONTACT ═══════════════ -->
+
+<h3 align="left">
+  <img src="https://img.shields.io/badge/-07-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" />
+  &nbsp;Get in Touch
+</h3>
+
+<br/>
+
+<p align="center">
+  <sub>Open to collaborations, freelance work, or just a friendly chat.</sub>
 </p>
 
 <p align="center">
   <a href="mailto:merrtsn20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=E6EDF3&labelColor=161B22" />
   </a>
   <a href="https://linkedin.com/in/mertsener">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E6EDF3&labelColor=161B22" />
   </a>
   <a href="https://github.com/mertsenerr">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=161B22" />
   </a>
 </p>
 
 <br/>
 
+<!-- ═══════════════ FOOTER WAVE ═══════════════ -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1f2335&height=2&section=footer&reversal=true" width="60%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <sub>⌨ Crafted with attention to detail · © 2026 Mert Şener</sub>
 </p>
