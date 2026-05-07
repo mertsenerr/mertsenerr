@@ -30,15 +30,98 @@ My education and projects have helped me build a strong foundation in **web** an
 
 ## 🧰 Tech Stack
 
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,tailwind,vercel,nodejs,express,dotnet,firebase,mongodb,git,github,cloudflare&theme=dark" /> 
-</p> 
+<h3 align="center">FRONTEND</h3>
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/resend/FFFFFF" width="48" height="48" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" />
+      <br/><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/typescript/3178C6" width="48" height="48" />
+      <br/><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" />
+      <br/><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/angular/DD0031" width="48" height="48" />
+      <br/><sub><b>Angular</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="48" height="48" />
+      <br/><sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="48" height="48" />
+      <br/><sub><b>Next.js</b></sub>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">BACKEND</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="48" height="48" />
+      <br/><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/express/FFFFFF" width="48" height="48" />
+      <br/><sub><b>Express</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="48" height="48" />
+      <br/><sub><b>.NET Core</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="48" height="48" />
+      <br/><sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/mongodb/47A248" width="48" height="48" />
+      <br/><sub><b>MongoDB</b></sub>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">TOOLS & SERVICES</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" />
+      <br/><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/github/FFFFFF" width="48" height="48" />
+      <br/><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="48" height="48" />
+      <br/><sub><b>Vercel</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" />
+      <br/><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="48" height="48" />
+      <br/><sub><b>Cloudflare</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" />
+      <br/><sub><b>Render</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/resend/FFFFFF" width="48" height="48" />
+      <br/><sub><b>Resend</b></sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Angular%20%7C%20Tailwind-1f2335?style=for-the-badge&labelColor=111827" /> 
@@ -49,7 +132,6 @@ My education and projects have helped me build a strong foundation in **web** an
   <img src="https://img.shields.io/badge/Deploy-Vercel%20%7C%20Docker%20%7C%20Cloudflare%20%7C%20Render-1f2335?style=for-the-badge&labelColor=111827" /> 
   <img src="https://img.shields.io/badge/Email-Resend-1f2335?style=for-the-badge&labelColor=111827" />
 </p>
-
 
 ---
 
@@ -121,7 +203,6 @@ My education and projects have helped me build a strong foundation in **web** an
 ---
 
 ## 📈 GitHub Stats 
-
 
 <div align="center">
 
