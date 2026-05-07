@@ -31,6 +31,7 @@ I enjoy creating visually polished interfaces, real-time systems, and seamless u
 ## 💼 Experience
 
 ### Frontend Intern — Pardon Mobile Technologies A.Ş.
+
 Worked on:
 - Modern responsive interfaces
 - Frontend optimization
@@ -39,10 +40,45 @@ Worked on:
 
 ---
 
-## 🌍 Languages
+# 🌍 Languages
 
-- 🇬🇧 English — Fluent (B2–C1)
-- 🇪🇸 Spanish — Beginner (A1–A2)
+<table>
+<tr>
+<td width="50">
+
+🇹🇷
+</td>
+<td>
+
+**Turkish** — Native (Anadil)
+
+</td>
+</tr>
+
+<tr>
+<td width="50">
+
+🇬🇧
+</td>
+<td>
+
+**English** — Fluent (B2–C1)
+
+</td>
+</tr>
+
+<tr>
+<td width="50">
+
+🇪🇸
+</td>
+<td>
+
+**Spanish** — Beginner (A1–A2)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -102,6 +138,7 @@ Worked on:
 
 <table align="center">
 <tr>
+
 <td align="center" width="140" height="120">
 <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="52"/><br/><br/>
 <b>Node.js</b>
@@ -126,6 +163,7 @@ Worked on:
 <img src="https://cdn.simpleicons.org/mongodb/47A248" width="52"/><br/><br/>
 <b>MongoDB</b>
 </td>
+
 </tr>
 </table>
 
@@ -135,6 +173,7 @@ Worked on:
 
 <table align="center">
 <tr>
+
 <td align="center" width="120" height="120">
 <img src="https://cdn.simpleicons.org/git/F05032" width="52"/><br/><br/>
 <b>Git</b>
@@ -169,6 +208,7 @@ Worked on:
 <img src="https://cdn.simpleicons.org/resend/FFFFFF" width="52"/><br/><br/>
 <b>Resend</b>
 </td>
+
 </tr>
 </table>
 
