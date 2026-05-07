@@ -52,6 +52,7 @@ Worked on:
 
 <table align="center">
 <tr>
+
 <td align="center" width="120" height="120">
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="52"/><br/><br/>
 <b>JavaScript</b>
@@ -78,9 +79,20 @@ Worked on:
 </td>
 
 <td align="center" width="120" height="120">
+<img src="https://cdn.simpleicons.org/sass/CC6699" width="52"/><br/><br/>
+<b>SCSS</b>
+</td>
+
+<td align="center" width="120" height="120">
+<img src="https://cdn.simpleicons.org/css/1572B6" width="52"/><br/><br/>
+<b>CSS3</b>
+</td>
+
+<td align="center" width="120" height="120">
 <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="52"/><br/><br/>
 <b>Next.js</b>
 </td>
+
 </tr>
 </table>
 
