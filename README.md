@@ -44,38 +44,29 @@ Worked on:
 
 <table>
 <tr>
-<td width="50">
-
-🇹🇷
+<td width="70" align="center">
+<img src="https://flagcdn.com/w80/tr.png" width="42"/>
 </td>
 <td>
-
-**Turkish** — Native (Anadil)
-
+<b>Turkish</b> — Native (Anadil)
 </td>
 </tr>
 
 <tr>
-<td width="50">
-
-🇬🇧
+<td width="70" align="center">
+<img src="https://flagcdn.com/w80/gb.png" width="42"/>
 </td>
 <td>
-
-**English** — Fluent (B2–C1)
-
+<b>English</b> — Fluent (B2–C1)
 </td>
 </tr>
 
 <tr>
-<td width="50">
-
-🇪🇸
+<td width="70" align="center">
+<img src="https://flagcdn.com/w80/es.png" width="42"/>
 </td>
 <td>
-
-**Spanish** — Beginner (A1–A2)
-
+<b>Spanish</b> — Beginner (A1–A2)
 </td>
 </tr>
 </table>
