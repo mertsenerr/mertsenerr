@@ -1,255 +1,307 @@
 <!--
   ╔══════════════════════════════════════════════════════════╗
   ║  MERT ŞENER · FULL STACK DEVELOPER                       ║
-  ║  Linear / Vercel inspired — Dark monochrome theme        ║
+  ║  Aurora Borealis · Premium gradient theme                ║
   ╚══════════════════════════════════════════════════════════╝
 -->
 
-<!-- ═══════════════ HERO ═══════════════ -->
+<!-- ═══════════════ ANIMATED HERO BANNER ═══════════════ -->
+
+<a href="#">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=MERT%20ŞENER&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=◆%20%20FULL%20STACK%20DEVELOPER%20%20◆&descAlign=50&descAlignY=58&descSize=18&animation=fadeIn" />
+</a>
+
+<!-- ═══════════════ TYPING SUBTITLE ═══════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Mert%20Şener&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18&animation=fadeIn" />
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Audiowide&weight=400&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=%E2%9C%A6+Crafting+pixel-perfect+web+experiences+%E2%9C%A6;%E2%9C%A6+Building+real-time+reservation+systems+%E2%9C%A6;%E2%9C%A6+Obsessed+with+performance+%26+aesthetic+detail+%E2%9C%A6" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=E6EDF3&center=true&vCenter=true&width=720&lines=Crafting+modern+web+interfaces.;Building+real-time+reservation+systems.;Obsessed+with+performance+%26+detail." />
-</p>
+<!-- ═══════════════ NEON BADGES ═══════════════ -->
 
 <p align="center">
-  <a href="https://github.com/mertsenerr"><img src="https://img.shields.io/badge/-Available%20for%20work-0D1117?style=flat-square&labelColor=0D1117&color=E6EDF3" /></a>
-  <img src="https://img.shields.io/badge/-İzmir%2C%20TR-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" />
-  <img src="https://komarev.com/ghpvc/?username=mertsenerr&label=PROFILE+VIEWS&color=0d1117&style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/✦_AVAILABLE_FOR_WORK-A78BFA?style=for-the-badge&labelColor=0F0817" />
+  <img src="https://img.shields.io/badge/📍_İZMİR_·_TR-4ADE80?style=for-the-badge&labelColor=0F0817" />
+  <img src="https://komarev.com/ghpvc/?username=mertsenerr&label=PROFILE+VIEWS&color=A78BFA&style=for-the-badge&labelColor=0F0817" />
+  <img src="https://img.shields.io/github/followers/mertsenerr?label=FOLLOWERS&style=for-the-badge&color=22D3EE&labelColor=0F0817" />
 </p>
 
 <br/>
 
-<!-- ═══════════════ QUOTE ═══════════════ -->
+<!-- ═══════════════ AURORA GRADIENT QUOTE ═══════════════ -->
 
 <p align="center">
-  <i>"Simplicity is the ultimate sophistication."</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=28&duration=99999&pause=99999&color=A78BFA&center=true&vCenter=true&width=800&lines=%E2%80%9CSimplicity+is+the+ultimate+sophistication.%E2%80%9D" />
   <br/>
-  <sub>— Leonardo da Vinci</sub>
+  <sub><i>— Leonardo da Vinci</i></sub>
 </p>
 
 <br/>
 
-<!-- ═══════════════ DIVIDER ═══════════════ -->
+<!-- ═══════════════ AURORA WAVE DIVIDER ═══════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=21262D&height=1" width="100%" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <br/>
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
 
-<h3 align="left">
-  <img src="https://img.shields.io/badge/-01-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" />
-  &nbsp;About
-</h3>
-
-<p align="left">
-&nbsp;&nbsp;&nbsp;Hi, I'm <b>Mert</b> — a Full Stack Developer building modern, scalable, and performance-driven web applications.<br/>
-&nbsp;&nbsp;&nbsp;I focus on <b>polished interfaces</b>, <b>real-time systems</b>, and <b>seamless user experiences</b> across the entire stack.
-</p>
-
-<br/>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=32&duration=99999&pause=99999&color=22D3EE&center=true&vCenter=true&width=400&lines=%E2%97%86+ABOUT+ME+%E2%97%86" />
+</h2>
 
 <table align="center">
-  <tr>
-    <td align="left" width="50%">
-      <sub><b>EDUCATION</b></sub><br/><br/>
-      <b>Yaşar University</b> · İzmir<br/>
-      <sub>Computer Engineering · 25% Scholarship</sub><br/><br/>
-      <b>Maltepe University</b> · İstanbul<br/>
-      <sub>Computer Programming · 50% Scholarship · GPA 3.53</sub>
-    </td>
-    <td align="left" width="50%">
-      <sub><b>EXPERIENCE</b></sub><br/><br/>
-      <b>Pardon Mobile Technologies A.Ş.</b><br/>
-      <sub>Frontend Intern</sub><br/><br/>
-      <sub>· Modern responsive interfaces</sub><br/>
-      <sub>· Frontend optimization & UI/UX</sub><br/>
-      <sub>· Component-based development</sub>
-    </td>
-  </tr>
+<tr>
+<td width="55%" valign="middle">
+
+```typescript
+const mert: Developer = {
+  name:        "Mert Şener",
+  role:        "Full Stack Developer",
+  location:    "İzmir, Türkiye",
+  focus:       ["Modern UI/UX", "Real-time Systems"],
+  currentlyOn: "SayımLink Phase 2",
+  passion:     "Performance × Aesthetic",
+  motto:       "Detail is not a detail.",
+};
+```
+
+</td>
+<td width="45%" valign="middle" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-<!-- ═══════════════ LANGUAGES ═══════════════ -->
+<!-- ═══════════════ EDU & EXP CARDS ═══════════════ -->
 
-<h3 align="left">
-  <img src="https://img.shields.io/badge/-02-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" />
-  &nbsp;Languages
-</h3>
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Türkçe-Native-0D1117?style=for-the-badge&labelColor=161B22&color=E6EDF3" />
-  <img src="https://img.shields.io/badge/English-B2--C1-0D1117?style=for-the-badge&labelColor=161B22&color=E6EDF3" />
-  <img src="https://img.shields.io/badge/Español-A1--A2-0D1117?style=for-the-badge&labelColor=161B22&color=8B949E" />
-</p>
+<img src="https://img.shields.io/badge/🎓_EDUCATION-A78BFA?style=for-the-badge&labelColor=0F0817" />
+
+<br/><br/>
+
+**Yaşar University** · İzmir  
+<sub>Computer Engineering · 25% Scholarship</sub>
 
 <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=21262D&height=1" width="100%" />
-</p>
+**Maltepe University** · İstanbul  
+<sub>Computer Programming · 50% Scholarship</sub>  
+<sub>GPA · **3.53 / 4.00**</sub>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/💼_EXPERIENCE-22D3EE?style=for-the-badge&labelColor=0F0817" />
+
+<br/><br/>
+
+**Pardon Mobile Technologies A.Ş.**  
+<sub>Frontend Intern</sub>
+
+<br/>
+
+<sub>◇ Modern responsive interfaces</sub>  
+<sub>◇ Frontend optimization</sub>  
+<sub>◇ UI/UX improvements</sub>  
+<sub>◇ Component-based development</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════ AURORA WAVE DIVIDER ═══════════════ -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <br/>
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 
-<h3 align="left">
-  <img src="https://img.shields.io/badge/-03-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" />
-  &nbsp;Tech Stack
-</h3>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=32&duration=99999&pause=99999&color=A78BFA&center=true&vCenter=true&width=400&lines=%E2%97%86+TECH+ARSENAL+%E2%97%86" />
+</h2>
 
 <br/>
 
-<p align="center"><sub><b>F R O N T E N D</b></sub></p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=E6EDF3&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=E6EDF3&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=E6EDF3&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=E6EDF3&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=E6EDF3&labelColor=161B22" />
-  <br/>
-  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=E6EDF3&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/SCSS-0D1117?style=for-the-badge&logo=sass&logoColor=E6EDF3&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=E6EDF3&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E6EDF3&labelColor=161B22" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,angular,nextjs,tailwind,sass,css,html&theme=dark&perline=9" />
 </p>
 
-<br/>
-
-<p align="center"><sub><b>B A C K E N D</b></sub></p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=E6EDF3&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=E6EDF3&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/.NET%20Core-0D1117?style=for-the-badge&logo=dotnet&logoColor=E6EDF3&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=E6EDF3&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=E6EDF3&labelColor=161B22" />
-</p>
-
-<br/>
-
-<p align="center"><sub><b>T O O L S &nbsp;&middot;&nbsp; S E R V I C E S</b></sub></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E6EDF3&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=E6EDF3&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=E6EDF3&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=E6EDF3&labelColor=161B22" />
-  <br/>
-  <img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=E6EDF3&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Resend-0D1117?style=for-the-badge&logo=resend&logoColor=E6EDF3&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=E6EDF3&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/▼_FRONTEND-A78BFA?style=for-the-badge&labelColor=0F0817" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=21262D&height=1" width="100%" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,firebase,mongodb&theme=dark&perline=5" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/▼_BACKEND-22D3EE?style=for-the-badge&labelColor=0F0817" />
+</p>
+
+<br/>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vercel,docker,cloudflare,postman,vscode,figma&theme=dark&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/▼_TOOLS_%26_SERVICES-4ADE80?style=for-the-badge&labelColor=0F0817" />
+</p>
+
+<br/>
+
+<!-- ═══════════════ LANGUAGES ═══════════════ -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🇹🇷_TÜRKÇE-NATIVE-A78BFA?style=for-the-badge&labelColor=0F0817" />
+  <img src="https://img.shields.io/badge/🇬🇧_ENGLISH-B2_·_C1-22D3EE?style=for-the-badge&labelColor=0F0817" />
+  <img src="https://img.shields.io/badge/🇪🇸_ESPAÑOL-A1_·_A2-4ADE80?style=for-the-badge&labelColor=0F0817" />
+</p>
+
+<br/>
+
+<!-- ═══════════════ AURORA WAVE DIVIDER ═══════════════ -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <br/>
 
 <!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
 
-<h3 align="left">
-  <img src="https://img.shields.io/badge/-04-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" />
-  &nbsp;Selected Work
-</h3>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=32&duration=99999&pause=99999&color=4ADE80&center=true&vCenter=true&width=500&lines=%E2%97%86+SELECTED+WORK+%E2%97%86" />
+</h2>
 
 <br/>
 
 <table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <sub><b>01 · RESERVATION SYSTEM</b></sub>
-      <h3>Ateş Ocakbaşı &nbsp;<sup><sub>↗</sub></sup></h3>
-      <sub>Real-time reservation & table management with live availability tracking and admin controls.</sub><br/><br/>
-      <a href="https://github.com/mertsenerr/atesocakbasi">
-        <img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=161B22" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <sub><b>02 · PERSONAL WEBSITE</b></sub>
-      <h3>Portfolio &nbsp;<sup><sub>↗</sub></sup></h3>
-      <sub>Animated personal portfolio focused on modern UI/UX, smooth transitions, and responsive design.</sub><br/><br/>
-      <a href="https://github.com/mertsenerr/myportfolio">
-        <img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=161B22" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub><b>03 · GRADUATION PROJECT</b></sub>
-      <h3>Network Security Tools &nbsp;<sup><sub>↗</sub></sup></h3>
-      <sub>Wi-Fi analyzer, speed test system, quiz modules, and Firebase integration in one platform.</sub><br/><br/>
-      <a href="https://github.com/mertsenerr/networksecuritytools">
-        <img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=161B22" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <sub><b>04 · GAME COMPANION</b></sub>
-      <h3>Damnation Web &nbsp;<sup><sub>↗</sub></sup></h3>
-      <sub>Immersive companion platform for the Damnation universe with dynamic interfaces.</sub><br/><br/>
-      <a href="https://github.com/mertsenerr/damnationweb">
-        <img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=161B22" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub><b>05 · UNITY GAME</b></sub>
-      <h3>Damnation &nbsp;<sup><sub>↗</sub></sup></h3>
-      <sub>Narrative-driven Unity game project with custom level design and gameplay mechanics.</sub><br/><br/>
-      <a href="https://github.com/mertsenerr/damnation">
-        <img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=161B22" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <sub><b>06 · ANALYTICS PLATFORM</b></sub>
-      <h3>ADS Platform &nbsp;<sup><sub>↗</sub></sup></h3>
-      <sub>Advertisement management and analytics platform with scalable backend architecture.</sub><br/><br/>
-      <a href="https://github.com/mertsenerr/ads">
-        <img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=161B22" />
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/mertsenerr/atesocakbasi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=atesocakbasi&theme=midnight-purple&hide_border=true&bg_color=0F0817&title_color=A78BFA&icon_color=22D3EE&text_color=E0E7FF" width="100%"/>
+</a>
+
+<p align="center">
+  <sub><b>🍽️ RESERVATION SYSTEM</b></sub><br/>
+  <sub>Real-time table management · Live availability · Admin panel</sub>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/mertsenerr/myportfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=myportfolio&theme=midnight-purple&hide_border=true&bg_color=0F0817&title_color=A78BFA&icon_color=22D3EE&text_color=E0E7FF" width="100%"/>
+</a>
+
+<p align="center">
+  <sub><b>🗂️ PERSONAL WEBSITE</b></sub><br/>
+  <sub>Animated UI · Smooth transitions · Modern UX</sub>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/mertsenerr/networksecuritytools">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=networksecuritytools&theme=midnight-purple&hide_border=true&bg_color=0F0817&title_color=A78BFA&icon_color=22D3EE&text_color=E0E7FF" width="100%"/>
+</a>
+
+<p align="center">
+  <sub><b>🎓 GRADUATION PROJECT</b></sub><br/>
+  <sub>Wi-Fi analyzer · Speed test · Quiz · Firebase</sub>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/mertsenerr/damnationweb">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=damnationweb&theme=midnight-purple&hide_border=true&bg_color=0F0817&title_color=A78BFA&icon_color=22D3EE&text_color=E0E7FF" width="100%"/>
+</a>
+
+<p align="center">
+  <sub><b>🔥 GAME COMPANION</b></sub><br/>
+  <sub>Damnation universe · Dynamic interfaces · Lore system</sub>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/mertsenerr/damnation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=damnation&theme=midnight-purple&hide_border=true&bg_color=0F0817&title_color=A78BFA&icon_color=22D3EE&text_color=E0E7FF" width="100%"/>
+</a>
+
+<p align="center">
+  <sub><b>🎮 UNITY 2D GAME</b></sub><br/>
+  <sub>Narrative-driven · Custom levels · Combat mechanics</sub>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/mertsenerr/ads">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertsenerr&repo=ads&theme=midnight-purple&hide_border=true&bg_color=0F0817&title_color=A78BFA&icon_color=22D3EE&text_color=E0E7FF" width="100%"/>
+</a>
+
+<p align="center">
+  <sub><b>📢 ANALYTICS PLATFORM</b></sub><br/>
+  <sub>Ad management · Scalable backend · Real-time data</sub>
+</p>
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=21262D&height=1" width="100%" />
-</p>
+<!-- ═══════════════ AURORA WAVE DIVIDER ═══════════════ -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <br/>
 
 <!-- ═══════════════ STATS ═══════════════ -->
 
-<h3 align="left">
-  <img src="https://img.shields.io/badge/-05-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" />
-  &nbsp;Activity
-</h3>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=32&duration=99999&pause=99999&color=22D3EE&center=true&vCenter=true&width=400&lines=%E2%97%86+ACTIVITY+%E2%97%86" />
+</h2>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=E6EDF3&icon_color=E6EDF3&text_color=8B949E&bg_color=0D1117&ring_color=E6EDF3" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&hide_border=true&langs_count=8&title_color=E6EDF3&text_color=8B949E&bg_color=0D1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=midnight-purple&bg_color=0F0817&title_color=A78BFA&icon_color=22D3EE&text_color=E0E7FF&ring_color=4ADE80" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mertsenerr&theme=midnight-purple&hide_border=true&background=0F0817&ring=A78BFA&fire=22D3EE&currStreakNum=4ADE80&sideNums=E0E7FF&currStreakLabel=A78BFA&sideLabels=22D3EE&dates=E0E7FF" height="180"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mertsenerr&hide_border=true&background=0D1117&stroke=21262D&ring=E6EDF3&fire=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&stroke_width=1" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&hide_border=true&langs_count=10&theme=midnight-purple&bg_color=0F0817&title_color=A78BFA&text_color=E0E7FF" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mertsenerr&theme=radical&utcOffset=3" height="180"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mertsenerr&bg_color=0F0817&color=A78BFA&line=22D3EE&point=4ADE80&area=true&hide_border=true&custom_title=Contribution%20Aurora" />
 </div>
 
 <br/>
@@ -267,73 +319,71 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mertsenerr&theme=nord_bright&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mertsenerr&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7" />
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=21262D&height=1" width="100%" />
-</p>
+<!-- ═══════════════ AURORA WAVE DIVIDER ═══════════════ -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <br/>
 
 <!-- ═══════════════ NOW PLAYING ═══════════════ -->
 
-<h3 align="left">
-  <img src="https://img.shields.io/badge/-06-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" />
-  &nbsp;Currently Playing
-</h3>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=32&duration=99999&pause=99999&color=4ADE80&center=true&vCenter=true&width=500&lines=%E2%97%86+CURRENTLY+PLAYING+%E2%97%86" />
+</h2>
 
 <br/>
 
 <p align="center">
   <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=e6edf3&bar_color_cover=true" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&show_offline=true&background_color=0F0817&interchange=false&bar_color=A78BFA&bar_color_cover=true" />
   </a>
 </p>
 
 <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=21262D&height=1" width="100%" />
-</p>
+<!-- ═══════════════ AURORA WAVE DIVIDER ═══════════════ -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <br/>
 
 <!-- ═══════════════ CONTACT ═══════════════ -->
 
-<h3 align="left">
-  <img src="https://img.shields.io/badge/-07-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" />
-  &nbsp;Get in Touch
-</h3>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=32&duration=99999&pause=99999&color=A78BFA&center=true&vCenter=true&width=500&lines=%E2%97%86+LET%27S+CONNECT+%E2%97%86" />
+</h2>
 
 <br/>
 
 <p align="center">
-  <sub>Open to collaborations, freelance work, or just a friendly chat.</sub>
+  <sub><i>Open to collaborations, freelance work, or just a friendly chat.</i></sub>
 </p>
+
+<br/>
 
 <p align="center">
   <a href="mailto:merrtsn20@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=E6EDF3&labelColor=161B22" />
+    <img src="https://img.shields.io/badge/-GMAIL-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0817" />
   </a>
   <a href="https://linkedin.com/in/mertsener">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E6EDF3&labelColor=161B22" />
+    <img src="https://img.shields.io/badge/-LINKEDIN-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0817" />
   </a>
   <a href="https://github.com/mertsenerr">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=161B22" />
+    <img src="https://img.shields.io/badge/-GITHUB-4ADE80?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0817" />
   </a>
 </p>
 
 <br/>
 
-<!-- ═══════════════ FOOTER WAVE ═══════════════ -->
+<!-- ═══════════════ FOOTER ═══════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=footer&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <sub>⌨ Crafted with attention to detail · © 2026 Mert Şener</sub>
+  <sub><b>✦ Crafted with attention to detail ✦ © 2026 Mert Şener ✦</b></sub>
 </p>
