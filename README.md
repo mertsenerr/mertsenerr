@@ -8,212 +8,267 @@
 
 ---
 
-## 📌 About Me
+# 📌 About Me
 
-Hi! I’m **Mert Şener** (25), a passionate **Full Stack Developer** with both academic and hands-on experience in building modern, scalable applications.  
+Hi! I’m **Mert Şener**, a passionate **Full Stack Developer** focused on building modern, scalable, and performance-oriented web applications.
 
-My education and projects have helped me build a strong foundation in **web** and **mobile** development.
-
-🎓 **Education**
-- **Maltepe University**, Istanbul — Associate Degree in Computer Programming (50% scholarship, GPA: 3.53)
-- **Yaşar University**, Izmir — Computer Engineering (25% scholarship)
-
-💼 **Experience**
-- **Frontend Intern — Pardon Mobile Technologies A.Ş.**  
-  Worked on modern UIs, responsive design, and frontend performance optimization.
-
-🌍 **Languages**
-- English: Fluent (B2–C1)
-- Spanish: Beginner (A1–A2)
+I enjoy creating visually polished interfaces, real-time systems, and seamless user experiences across both frontend and backend architectures.
 
 ---
 
-## 🧰 Tech Stack
+## 🎓 Education
+
+- **Maltepe University**, Istanbul  
+  Associate Degree in Computer Programming  
+  *(50% Scholarship — GPA: 3.53)*
+
+- **Yaşar University**, Izmir  
+  Computer Engineering  
+  *(25% Scholarship)*
+
+---
+
+## 💼 Experience
+
+### Frontend Intern — Pardon Mobile Technologies A.Ş.
+Worked on:
+- Modern responsive interfaces
+- Frontend optimization
+- UI/UX improvements
+- Component-based development
+
+---
+
+## 🌍 Languages
+
+- 🇬🇧 English — Fluent (B2–C1)
+- 🇪🇸 Spanish — Beginner (A1–A2)
+
+---
+
+# 🧰 Tech Stack
 
 <h3 align="center">FRONTEND</h3>
 
 <table align="center">
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" />
-      <br/><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/typescript/3178C6" width="48" height="48" />
-      <br/><sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" />
-      <br/><sub><b>React</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/angular/DD0031" width="48" height="48" />
-      <br/><sub><b>Angular</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="48" height="48" />
-      <br/><sub><b>Tailwind CSS</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="48" height="48" />
-      <br/><sub><b>Next.js</b></sub>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="120" height="120">
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="52"/><br/><br/>
+<b>JavaScript</b>
+</td>
+
+<td align="center" width="120" height="120">
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="52"/><br/><br/>
+<b>TypeScript</b>
+</td>
+
+<td align="center" width="120" height="120">
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="52"/><br/><br/>
+<b>React</b>
+</td>
+
+<td align="center" width="120" height="120">
+<img src="https://cdn.simpleicons.org/angular/DD0031" width="52"/><br/><br/>
+<b>Angular</b>
+</td>
+
+<td align="center" width="120" height="120">
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="52"/><br/><br/>
+<b>Tailwind CSS</b>
+</td>
+
+<td align="center" width="120" height="120">
+<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="52"/><br/><br/>
+<b>Next.js</b>
+</td>
+</tr>
 </table>
+
+<br/>
 
 <h3 align="center">BACKEND</h3>
 
 <table align="center">
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="48" height="48" />
-      <br/><sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/express/FFFFFF" width="48" height="48" />
-      <br/><sub><b>Express</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="48" height="48" />
-      <br/><sub><b>.NET Core</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="48" height="48" />
-      <br/><sub><b>Firebase</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/mongodb/47A248" width="48" height="48" />
-      <br/><sub><b>MongoDB</b></sub>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="140" height="120">
+<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="52"/><br/><br/>
+<b>Node.js</b>
+</td>
+
+<td align="center" width="140" height="120">
+<img src="https://cdn.simpleicons.org/express/FFFFFF" width="52"/><br/><br/>
+<b>Express</b>
+</td>
+
+<td align="center" width="140" height="120">
+<img src="https://cdn.simpleicons.org/dotnet/512BD4" width="52"/><br/><br/>
+<b>.NET Core</b>
+</td>
+
+<td align="center" width="140" height="120">
+<img src="https://cdn.simpleicons.org/firebase/FFCA28" width="52"/><br/><br/>
+<b>Firebase</b>
+</td>
+
+<td align="center" width="140" height="120">
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="52"/><br/><br/>
+<b>MongoDB</b>
+</td>
+</tr>
 </table>
+
+<br/>
 
 <h3 align="center">TOOLS & SERVICES</h3>
 
 <table align="center">
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" />
-      <br/><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/github/FFFFFF" width="48" height="48" />
-      <br/><sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="48" height="48" />
-      <br/><sub><b>Vercel</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" />
-      <br/><sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="48" height="48" />
-      <br/><sub><b>Cloudflare</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" />
-      <br/><sub><b>Render</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/resend/FFFFFF" width="48" height="48" />
-      <br/><sub><b>Resend</b></sub>
-    </td>
-  </tr>
-</table>
+<tr>
+<td align="center" width="120" height="120">
+<img src="https://cdn.simpleicons.org/git/F05032" width="52"/><br/><br/>
+<b>Git</b>
+</td>
 
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Angular%20%7C%20Tailwind-1f2335?style=for-the-badge&labelColor=111827" /> 
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20.NET%20Core-1f2335?style=for-the-badge&labelColor=111827" /> 
-  <img src="https://img.shields.io/badge/Language-TypeScript%20%7C%20JavaScript%20%7C%20C%23-1f2335?style=for-the-badge&labelColor=111827" /> 
-  <img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20Firebase-1f2335?style=for-the-badge&labelColor=111827" /> 
-  <img src="https://img.shields.io/badge/Realtime-Firebase%20RTDB%20%7C%20WebSockets-1f2335?style=for-the-badge&labelColor=111827" /> 
-  <img src="https://img.shields.io/badge/Deploy-Vercel%20%7C%20Docker%20%7C%20Cloudflare%20%7C%20Render-1f2335?style=for-the-badge&labelColor=111827" /> 
-  <img src="https://img.shields.io/badge/Email-Resend-1f2335?style=for-the-badge&labelColor=111827" />
-</p>
+<td align="center" width="120" height="120">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="52"/><br/><br/>
+<b>GitHub</b>
+</td>
+
+<td align="center" width="120" height="120">
+<img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="52"/><br/><br/>
+<b>Vercel</b>
+</td>
+
+<td align="center" width="120" height="120">
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="52"/><br/><br/>
+<b>Docker</b>
+</td>
+
+<td align="center" width="120" height="120">
+<img src="https://cdn.simpleicons.org/cloudflare/F38020" width="52"/><br/><br/>
+<b>Cloudflare</b>
+</td>
+
+<td align="center" width="120" height="120">
+<img src="https://cdn.simpleicons.org/render/46E3B7" width="52"/><br/><br/>
+<b>Render</b>
+</td>
+
+<td align="center" width="120" height="120">
+<img src="https://cdn.simpleicons.org/resend/FFFFFF" width="52"/><br/><br/>
+<b>Resend</b>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌟 Featured Projects
+# 🌟 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" style="vertical-align: top; padding: 20px;">
-      <h3>🍽️ Ateş Ocakbaşı</h3>
-      <p>
-        Real-time reservation & table management system with live availability and admin tools.
-      </p>
-      <a href="https://github.com/mertsenerr/atesocakbasi">
-        <img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" style="vertical-align: top; padding: 20px;">
-      <h3>🗂️ Portfolio</h3>
-      <p>
-        A beautifully animated personal portfolio showcasing modern UI/UX and smooth transitions.
-      </p>
-      <a href="https://github.com/mertsenerr/myportfolio">
-        <img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="vertical-align: top; padding: 20px;">
-      <h3>🎓 Network Security Tools</h3>
-      <p>
-        Graduation project including Wi-Fi analyzer, animated speed test, quiz modules and Firebase integration.
-      </p>
-      <a href="https://github.com/mertsenerr/networksecuritytools">
-        <img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" style="vertical-align: top; padding: 20px;">
-      <h3>🔥 Damnation Web</h3>
-      <p>
-        Web-based companion platform for the Damnation universe featuring immersive UI and dynamic interactions.
-      </p>
-      <a href="https://github.com/mertsenerr/damnationweb">
-        <img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="vertical-align: top; padding: 20px;">
-      <h3>🎮 Damnation</h3>
-      <p>
-        A narrative-driven Unity game project with custom level design, storyline structure and interactive gameplay mechanics.
-      </p>
-      <a href="https://github.com/mertsenerr/damnation">
-        <img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" style="vertical-align: top; padding: 20px;">
-      <h3>📢 ADS Platform</h3>
-      <p>
-        Advertisement management and campaign tracking system with real-time analytics and scalable backend structure.
-      </p>
-      <a href="https://github.com/mertsenerr/ads">
-        <img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🍽️ Ateş Ocakbaşı
+
+Real-time reservation and table management system featuring live availability tracking and admin controls.
+
+<a href="https://github.com/mertsenerr/atesocakbasi">
+<img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🗂️ Portfolio
+
+Animated personal portfolio focused on modern UI/UX, smooth transitions, and responsive experiences.
+
+<a href="https://github.com/mertsenerr/myportfolio">
+<img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 Network Security Tools
+
+Graduation project including:
+- Wi-Fi analyzer
+- Speed test system
+- Quiz modules
+- Firebase integration
+
+<a href="https://github.com/mertsenerr/networksecuritytools">
+<img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔥 Damnation Web
+
+Immersive companion platform for the Damnation universe featuring dynamic interfaces and interactive systems.
+
+<a href="https://github.com/mertsenerr/damnationweb">
+<img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎮 Damnation
+
+Narrative-driven Unity game project with custom level design and gameplay mechanics.
+
+<a href="https://github.com/mertsenerr/damnation">
+<img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📢 ADS Platform
+
+Advertisement management and analytics platform with scalable backend architecture.
+
+<a href="https://github.com/mertsenerr/ads">
+<img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-## 📈 GitHub Stats 
+# 📈 GitHub Stats
 
 <div align="center">
 
-  <img 
-    src="https://mertsenerr-github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" 
-    height="170" 
-  />
-  <img 
-    src="https://mertsenerr-github-readme-stats.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" 
-    height="170" 
-  />
+<img 
+src="https://mertsenerr-github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" 
+height="170"
+/>
+
+<img 
+src="https://mertsenerr-github-readme-stats.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" 
+height="170"
+/>
 
 </div>
 
@@ -225,63 +280,67 @@ My education and projects have helped me build a strong foundation in **web** an
 
 </div>
 
+---
 
-## 🧱 Current Stack Overview
+# 🧱 Current Stack Overview
 
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mertsenerr&theme=tokyonight" 
-    alt="Current Stack Overview"
   />
 </p>
 
 <div align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mertsenerr&theme=tokyonight" 
-    height="150"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mertsenerr&theme=tokyonight" 
-    height="150"
-  />
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mertsenerr&theme=tokyonight" 
+height="150"
+/>
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mertsenerr&theme=tokyonight" 
+height="150"
+/>
+
 </div>
 
 <div align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mertsenerr&theme=tokyonight" 
-    height="150"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mertsenerr&theme=tokyonight" 
-    height="150"
-  />
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mertsenerr&theme=tokyonight" 
+height="150"
+/>
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mertsenerr&theme=tokyonight" 
+height="150"
+/>
+
 </div>
 
 ---
 
-## 📬 Contact
+# 📬 Contact
 
-<p align="center" style="color:#9ca3af;">
-  ✨ Feel free to reach out for collaborations, opportunities, or just to say hi!
+<p align="center">
+✨ Feel free to reach out for collaborations, freelance work, or just to say hi!
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="180">
-      <a href="mailto:merrtsn20@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" />
-        <div><span style="font-weight:600; font-size:13.5px; color:#EA4335;">Gmail</span></div>
-      </a>
-    </td>
+<div align="center">
 
-  <td align="center" width="180">
-      <a href="https://linkedin.com/in/mertsener">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="36" height="36" />
-        <div><span style="font-weight:600; font-size:13.5px; color:#0A66C2;">LinkedIn</span></div>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="mailto:merrtsn20@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="42"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/mertsener">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42"/>
+</a>
+
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1f2335&height=2&section=footer&reversal=true" width="60%" />
