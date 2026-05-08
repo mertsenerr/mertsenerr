@@ -377,7 +377,7 @@ height="150"
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/mertsener">
+<a href="https://linkedin.com/in/merrtsener">
 <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42"/>
 </a>
 
