@@ -372,19 +372,40 @@ height="150"
 <div align="center">
 
 <a href="mailto:merrtsn20@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="42"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/merrtsener">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.icons8.com/color/48/linkedin.png" width="42"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/mertsenerr">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.icons8.com/fluency/48/github.png" width="42"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/merrtsener">
+<img src="https://img.icons8.com/fluency/48/instagram-new.png" width="42"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://x.com/merrtsener">
+<img src="https://img.icons8.com/fluency/48/twitterx.png" width="42"/>
 </a>
 
 </div>
 
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1f2335&height=2&section=footer&reversal=true" width="60%" />
+</p>
 <br/>
 
 <p align="center">
