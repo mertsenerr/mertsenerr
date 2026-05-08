@@ -369,37 +369,52 @@ height="150"
 ✨ Feel free to reach out for collaborations, freelance work, or just to say hi!
 </p>
 
-<div align="center">
+<table align="center">
+<tr>
 
+<td align="center" width="100">
 <a href="mailto:merrtsn20@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="42"/>
+<img src="https://img.icons8.com/fluency/64/gmail-new.png" width="48"/>
+<br/><b>Gmail</b>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
-
+<td align="center" width="100">
 <a href="https://linkedin.com/in/merrtsener">
-<img src="https://img.icons8.com/color/48/linkedin.png" width="42"/>
+<img src="https://img.icons8.com/fluency/64/linkedin.png" width="48"/>
+<br/><b>LinkedIn</b>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
-
+<td align="center" width="100">
 <a href="https://github.com/mertsenerr">
-<img src="https://img.icons8.com/fluency/48/github.png" width="42"/>
+<img src="https://img.icons8.com/fluency/64/github.png" width="48"/>
+<br/><b>GitHub</b>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
-
+<td align="center" width="100">
 <a href="https://instagram.com/merrtsener">
-<img src="https://img.icons8.com/fluency/48/instagram-new.png" width="42"/>
+<img src="https://img.icons8.com/fluency/64/instagram-new.png" width="48"/>
+<br/><b>Instagram</b>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
-
+<td align="center" width="100">
 <a href="https://x.com/merrtsener">
-<img src="https://img.icons8.com/fluency/48/twitterx.png" width="42"/>
+<img src="https://img.icons8.com/fluency/64/twitterx.png" width="48"/>
+<br/><b>X (Twitter)</b>
 </a>
+</td>
 
-</div>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1f2335&height=2&section=footer&reversal=true" width="60%" />
+</p>
 
 <br/>
 
