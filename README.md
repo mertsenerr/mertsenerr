@@ -328,38 +328,27 @@ height="170"
 # 🧱 Current Stack Overview
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mertsenerr&theme=tokyonight" 
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mertsenerr&theme=tokyonight" />
 </p>
 
-<div align="center">
-
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mertsenerr&theme=tokyonight" 
-height="150"
-/>
-
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mertsenerr&theme=tokyonight" 
-height="150"
-/>
-
-</div>
-
-<div align="center">
-
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mertsenerr&theme=tokyonight" 
-height="150"
-/>
-
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mertsenerr&theme=tokyonight" 
-height="150"
-/>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mertsenerr&theme=tokyonight" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mertsenerr&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mertsenerr&theme=tokyonight" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mertsenerr&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 ---
 
