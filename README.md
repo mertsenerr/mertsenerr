@@ -301,20 +301,6 @@ Advertisement management and analytics platform with scalable backend architectu
 
 # 📈 GitHub Stats
 
-<div align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api?username=mertsenerr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" 
-height="170"
-/>
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertsenerr&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" 
-height="170"
-/>
-
-</div>
-
 <br/>
 
 <div align="center">
