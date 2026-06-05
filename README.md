@@ -24,7 +24,7 @@ I enjoy creating visually polished interfaces, real-time systems, and seamless u
 
 - **Yaşar University**, Izmir  
   Computer Engineering  
-  *(25% Scholarship)*
+  *(25% Scholarship — GPA: 2.73)*
 
 ---
 
