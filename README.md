@@ -115,11 +115,6 @@ Worked on:
 <b>CSS3</b>
 </td>
 
-<td align="center" width="120" height="120">
-<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="52"/><br/><br/>
-<b>Next.js</b>
-</td>
-
 </tr>
 </table>
 
