@@ -207,9 +207,25 @@ Worked on:
 
 <td width="50%" valign="top">
 
+### 🔄 SynCompare
+
+Multi-tenant (firma bazlı) B2B karşılaştırma & senkronizasyon platformu. SignalR ile gerçek zamanlı hücre kilitleme, JWT refresh akışı ve e-posta doğrulamalı çok kiracılı kimlik doğrulama.
+
+`Angular 19` · `.NET 9` · `MongoDB` · `SignalR`
+
+<a href="https://github.com/mertsenerr/syncompare">
+<img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
 ### 🍽️ Ateş Ocakbaşı
 
-Real-time reservation and table management system featuring live availability tracking and admin controls.
+Şube bazlı menüler, mega dropdown navigasyon, Leaflet haritalar ve GSAP animasyonlarıyla gerçek zamanlı rezervasyon & masa yönetim sistemi.
+
+`Angular 19` · `SCSS` · `GSAP` · `Leaflet`
 
 <a href="https://github.com/mertsenerr/atesocakbasi">
 <img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
@@ -217,33 +233,19 @@ Real-time reservation and table management system featuring live availability tr
 
 </td>
 
-<td width="50%" valign="top">
-
-### 🗂️ Portfolio
-
-Animated personal portfolio focused on modern UI/UX, smooth transitions, and responsive experiences.
-
-<a href="https://github.com/mertsenerr/myportfolio">
-<img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
 </tr>
 
 <tr>
 
 <td width="50%" valign="top">
 
-### 🎓 Network Security Tools
+### 🚗 Moviqar
 
-Graduation project including:
-- Wi-Fi analyzer
-- Speed test system
-- Quiz modules
-- Firebase integration
+Araç karşılaştırma, rezervasyon, Google OAuth, JWT auth ve admin paneliyle premium lüks araç kiralama platformu. Bentley & Rolls-Royce esintili ultra-lüks koyu tema arayüz.
 
-<a href="https://github.com/mertsenerr/networksecuritytools">
+`Angular 19` · `.NET Core 9` · `MongoDB` · `Google OAuth`
+
+<a href="https://github.com/mertsenerr/moviqar">
 <img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -251,37 +253,11 @@ Graduation project including:
 
 <td width="50%" valign="top">
 
-### 🔥 Damnation Web
+### 📊 ADS Danışmanlık
 
-Immersive companion platform for the Damnation universe featuring dynamic interfaces and interactive systems.
+TR/EN dil geçişi sunan, danışmanlık firması için kurumsal web platformu.
 
-<a href="https://github.com/mertsenerr/damnationweb">
-<img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎮 Damnation
-
-Narrative-driven Unity game project with custom level design and gameplay mechanics.
-
-<a href="https://github.com/mertsenerr/damnation">
-<img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📢 ADS Platform
-
-Advertisement management and analytics platform with scalable backend architecture.
+`Angular` · `TypeScript` · `SCSS`
 
 <a href="https://github.com/mertsenerr/ads">
 <img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
