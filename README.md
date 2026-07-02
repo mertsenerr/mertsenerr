@@ -209,7 +209,7 @@ Worked on:
 
 ### 🔄 SynCompare
 
-Multi-tenant (firma bazlı) B2B karşılaştırma & senkronizasyon platformu. SignalR ile gerçek zamanlı hücre kilitleme, JWT refresh akışı ve e-posta doğrulamalı çok kiracılı kimlik doğrulama.
+Multi-tenant (firm-based) B2B comparison and synchronization platform. Real-time cell locking with SignalR, JWT refresh stream, and multi-tenant authentication with email verification.
 
 `Angular 19` · `.NET 9` · `MongoDB` · `SignalR`
 
@@ -223,7 +223,7 @@ Multi-tenant (firma bazlı) B2B karşılaştırma & senkronizasyon platformu. Si
 
 ### 🍽️ Ateş Ocakbaşı
 
-Şube bazlı menüler, mega dropdown navigasyon, Leaflet haritalar ve GSAP animasyonlarıyla gerçek zamanlı rezervasyon & masa yönetim sistemi.
+Real-time booking and table management system with branch-based menus, mega dropdown navigation, Leaflet maps, and GSAP animations.
 
 `Angular 19` · `SCSS` · `GSAP` · `Leaflet`
 
@@ -255,7 +255,7 @@ Araç karşılaştırma, rezervasyon, Google OAuth, JWT auth ve admin paneliyle 
 
 ### 📊 ADS Danışmanlık
 
-TR/EN dil geçişi sunan, danışmanlık firması için kurumsal web platformu.
+Corporate web platform for a consulting firm, offering Turkish/English language switching.
 
 `Angular` · `TypeScript` · `SCSS`
 
