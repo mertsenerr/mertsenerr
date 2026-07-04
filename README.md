@@ -241,7 +241,7 @@ Real-time booking and table management system with branch-based menus, mega drop
 
 ### 🚗 Moviqar
 
-Araç karşılaştırma, rezervasyon, Google OAuth, JWT auth ve admin paneliyle premium lüks araç kiralama platformu. Bentley & Rolls-Royce esintili ultra-lüks koyu tema arayüz.
+Premium luxury car rental platform built with Angular 19 & .NET Core 9. Features elegant dark theme, vehicle comparison, booking system, and MongoDB backend. Ultra-luxury UI inspired by Bentley & Rolls-Royce.
 
 `Angular 19` · `.NET Core 9` · `MongoDB` · `Google OAuth`
 
