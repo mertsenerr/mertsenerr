@@ -291,17 +291,6 @@ Corporate web platform for a consulting firm, offering Turkish/English language 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mertsenerr&theme=tokyonight" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mertsenerr&theme=tokyonight" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mertsenerr&theme=tokyonight" />
-    </td>
-    <td align="center" width="50%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mertsenerr&theme=tokyonight" />
     </td>
   </tr>
