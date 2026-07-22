@@ -279,23 +279,6 @@ Corporate web platform for a consulting firm, offering Turkish/English language 
 ![Trophies](https://github-trophies.vercel.app/?username=mertsenerr&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=7&v=3)
 
 </div>
-
----
-
-# 🧱 Current Stack Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mertsenerr&theme=tokyonight" />
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mertsenerr&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
-
 ---
 
 # 📬 Contact
