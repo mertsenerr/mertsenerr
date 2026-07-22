@@ -279,6 +279,7 @@ Corporate web platform for a consulting firm, offering Turkish/English language 
 ![Trophies](https://github-trophies.vercel.app/?username=mertsenerr&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=7&v=3)
 
 </div>
+
 ---
 
 # 📬 Contact
